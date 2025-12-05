@@ -1,0 +1,14 @@
+//
+// PREfast Examples readme
+// Copyright © Microsoft Corporation.  All rights reserved.
+//
+
+These PREfast examples are intended to be built using the build command 
+running in the DDK build environment.
+
+That is:
+   prefast build -cZ  // expect 43 errors from PREfast
+
+You can view the results with
+   prefast view
+

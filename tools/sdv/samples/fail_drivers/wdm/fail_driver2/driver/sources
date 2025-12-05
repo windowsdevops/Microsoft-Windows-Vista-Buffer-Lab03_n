@@ -1,0 +1,8 @@
+TARGETNAME=driver
+TARGETTYPE=DRIVER
+
+SOURCES = fail_driver2.c
+
+INCLUDES=..\Library;
+
+TARGETLIBS=..\Library\$(O)\fail_library2.lib

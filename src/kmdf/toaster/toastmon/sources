@@ -1,0 +1,23 @@
+TARGETNAME=wdftoastmon
+TARGETTYPE=DRIVER
+
+
+KMDF_VERSION=1
+
+INF_NAME=wdftoastmon
+
+MISCFILES=$(OBJ_PATH)\$(O)\$(INF_NAME).inf
+
+NTTARGETFILES=
+
+TARGETLIBS=$(TARGETLIBS) $(DDK_LIB_PATH)\ntstrsafe.lib
+
+C_DEFINES=
+
+INCLUDES = ..\inc
+
+SOURCES= toastmon.rc \
+         toastmon.c  \
+         wmi.c
+
+

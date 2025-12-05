@@ -1,0 +1,5 @@
+DIRS= \
+     echo \
+     sideshow \
+     skeleton \
+     usb

@@ -1,0 +1,8 @@
+TARGETNAME=fail_driver3
+TARGETTYPE=DRIVER
+
+SOURCES = fail_driver3.c \
+          pnp.c \
+          power.c \
+          wmi.c
+          

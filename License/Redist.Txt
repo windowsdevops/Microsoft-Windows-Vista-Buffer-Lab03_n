@@ -1,0 +1,73 @@
+Windows Software Development Kit Redistributable Code
+======================================================
+
+
+
+Static LIB files
+================
+
+.   	certidl.lib 
+. 	DtcHelp.Lib
+.	Fci.Lib
+.	Fdi.Lib
+.	Htmlhelp.Lib
+.	MAPI.Lib
+.	MiniDump.Lib
+.	MMC.Lib
+.	odbccp32.lib
+.	PEnter.Lib
+.	RpcNdr.Lib
+.	ScrnSave.Lib
+.	ScrnSavW.Lib
+.	strsafe.lib
+.	unicows.lib
+.	xaSwitch.Lib
+.	xoleHlp.Lib
+
+
+Windows Media Services 9.5 Series files
+=====================================
+
+microsoft.windowsmediaservices.dll
+WMSServerTypeLib.dll
+
+
+.Net Framework Redist
+=====================================
+The Windows SDK does not include these files - you must download these files from Microfsoft Downloads only.
+•	dotnetfx3.exe
+•	dotnetfx3_x64.exe
+
+
+VC ++ Compiler Redist files
+=====================================
+Installed to: ... Microsoft SDKs\Windows\v6.0\VC\Redist
+=====================================
+
+•	Policy_8_0_Microsoft_VC80_CRT_x86.msm
+•	Policy_8_0_Microsoft_VC80_CRT_x86_x64.msm
+•	Microsoft_VC80_CRT_x86_ia64.msm
+•	Policy_8_0_Microsoft_VC80_CRT_x86_ia64.msm
+•	Microsoft_VC80_CRT_x86.msm
+•	Microsoft_VC80_CRT_x86_x64.msm
+
+
+
+
+Tablet 1.7 SDK Redists
+=====================================
+Installed to: ... Microsoft SDKs\Windows\v6.0\Redist\Tablet PC\v1.7
+=====================================
+
+•	IACOM.msm
+•	IACore.msm
+•	IAWinFrm.msm
+•	IAWinFX.msm
+•	InkDiv.msm
+•	journal.msm
+•	journalMAN.msm
+•	MSTPCRT.msm
+•	MSVCP60.msm
+•	MSVCRT.msm
+•	rtscom.msm
+•	tpcman17.msm

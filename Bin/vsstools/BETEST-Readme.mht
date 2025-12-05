@@ -1,0 +1,1498 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01C6E2ED.42378860"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_01C6E2ED.42378860
+Content-Location: file:///C:/EA821E05/BETEST-Readme.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"BETEST-Readme_files/filelist.xml">
+<title>BETest Readme</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Adi Oltean</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Dinesh Haridas</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>23</o:TotalTime>
+  <o:LastPrinted>2006-09-27T22:49:00Z</o:LastPrinted>
+  <o:Created>2006-09-28T18:00:00Z</o:Created>
+  <o:LastSaved>2006-09-28T18:00:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>628</o:Words>
+  <o:Characters>3785</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>99</o:Lines>
+  <o:Paragraphs>53</o:Paragraphs>
+  <o:CharactersWithSpaces>4360</o:CharactersWithSpaces>
+  <o:Version>11.8036</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+h1
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:Arial;
+	mso-font-kerning:16.0pt;
+	mso-fareast-language:JA;}
+h2
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-fareast-language:JA;
+	font-style:italic;}
+h3
+	{mso-style-next:Normal;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:13.0pt;
+	font-family:Arial;
+	mso-fareast-language:JA;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{mso-style-update:auto;
+	mso-style-noshow:yes;
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{mso-style-update:auto;
+	mso-style-noshow:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:12.0pt;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{mso-style-update:auto;
+	mso-style-noshow:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:24.0pt;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:JA;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"MS Mincho";
+	mso-fareast-language:JA;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("BETEST-Readme_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("BETEST-Readme_files/header.htm") =
+fcs;
+	mso-endnote-separator:url("BETEST-Readme_files/header.htm") es;
+	mso-endnote-continuation-separator:url("BETEST-Readme_files/header.htm") e=
+cs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 65.95pt 1.0in 65.95pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-header:url("BETEST-Readme_files/header.htm") h1;
+	mso-even-footer:url("BETEST-Readme_files/header.htm") ef1;
+	mso-footer:url("BETEST-Readme_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:93093319;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-449141780 67698705 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:199511841;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-135487060 67698705 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:267781350;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1059918930 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:297493122;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1614652522 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:344720789;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1801052226 1452824072 67698691 67698693 67698689 67=
+698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:355666411;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1618504426 67698705 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l5:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:512063755;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-635688958 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l6:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l6:level2
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l6:level3
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l6:level4
+	{mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l6:level7
+	{mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l7
+	{mso-list-id:517550714;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1474332014 1452824072 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:674042777;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1885754080 67698705 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l8:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:1051341840;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2125514472 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l9:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:1072315606;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1473190974 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l10:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11
+	{mso-list-id:1088160823;
+	mso-list-type:hybrid;
+	mso-list-template-ids:207778464 67698705 67698713 67698715 67698703 676987=
+13 67698715 67698703 67698713 67698715;}
+@list l11:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12
+	{mso-list-id:1280262915;
+	mso-list-type:hybrid;
+	mso-list-template-ids:258348930 67698705 67698713 67698715 67698703 676987=
+13 67698715 67698703 67698713 67698715;}
+@list l12:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l13
+	{mso-list-id:1347713519;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1112025338 67698705 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l13:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14
+	{mso-list-id:1554655703;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-947988086 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l14:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15
+	{mso-list-id:1570767336;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1133374322 1452824072 67698691 67698693 67698689 67=
+698691 67698693 67698689 67698691 67698693;}
+@list l15:level1
+	{mso-level-start-at:3;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l16
+	{mso-list-id:1572080385;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1559453756 67698705 67698691 67698693 67698689 6769=
+8691 67698693 67698689 67698691 67698693;}
+@list l16:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17
+	{mso-list-id:1595551149;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-752419776 -105491256 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l17:level1
+	{mso-level-start-at:16;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l18
+	{mso-list-id:1720548971;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1456697500 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l18:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l19
+	{mso-list-id:1741244755;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1507806864 1452824072 67698691 67698693 67698689 67=
+698691 67698693 67698689 67698691 67698693;}
+@list l19:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l20
+	{mso-list-id:1842237178;
+	mso-list-template-ids:852393608;}
+@list l20:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21
+	{mso-list-id:1971207127;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1093924526 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l21:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l22
+	{mso-list-id:2099279917;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2117722178 1452824072 67698691 67698693 67698689 67=
+698691 67698693 67698689 67698691 67698693;}
+@list l22:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Arial;
+	mso-fareast-font-family:"MS Mincho";}
+@list l22:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoHeader><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:20.0pt'>The BETEST test tool<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText align=3Dcenter style=3D'text-align:center'><span
+style=3D'font-family:Arial'>Version 1.01<o:p></o:p></span></p>
+
+<h2><a name=3D"_Toc146699228">Introduction</a></h2>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>BETEST is an adva=
+nced
+test tool that acts as a VSS requestor. BETEST is primarily intended to
+exercise advanced backup and restore operations, like exercising incremental
+and differential backups, setting complex restore options like authoritative
+restore, rollForward options, restore options, etc.<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>BETEST is a compl=
+ex tool
+that requires deep familiarity with VSS, and requires good understanding of=
+ the
+XML Schema of the BETEST instruction file. The intended audience for BETEST=
+ is primarily
+developers who write complex backup applications or writers. <o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>For simple backup=
+/restore
+scenarios we recommend you to start with the VSHADOW sample requestor.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span></p>
+
+<h2>Command-line options</h2>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>For both backup a=
+nd
+restore, you should specify the following command-line options to BETEST: <=
+o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>The operation type</span></b><span style=3D'fon=
+t-family:
+Arial'>: use /B for backup and /R for restore. If neither option is specifi=
+ed,
+the tool will perform a backup followed by a restore. <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>The backup components document</span></b><span
+style=3D'font-family:Arial'>: /S &lt;backupComponentsFile.xml&gt;. This spe=
+cifies
+a XML catalog file generated by VSS during backup, or consumed during resto=
+re.
+This file contains VSS-related backup metadata used during restore. <o:p></=
+o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>The backup target directory</span></b><span
+style=3D'font-family:Arial'>: /D &lt;directory&gt;. This is a directory whe=
+re
+BETEST will copy the backed-up files (during backup), or use it to copy fil=
+es
+from (during restore). If no directory is specified, BETEST will perform
+backup/restore in simulated mode, with no actual file copy operations.<o:p>=
+</o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>The BETEST XML instructions file</span></b><span
+style=3D'font-family:Arial'>: /X &lt;xmlFile&gt;. This is an optional XML f=
+ile
+that contains additional BETEST instructions for your backup/restore
+operations, such as what components to be selected, what restore mechanism =
+to
+use, etc. Please see the associated BETEST.XML schema for more details. <o:=
+p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>There are also a =
+number
+of additional options (which are also optional):<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Bootable system-state backup</span></b><span
+style=3D'font-family:Arial'> (used only for system-state backup): /O<o:p></=
+o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Backup type</span></b><span style=3D'font-famil=
+y:Arial'>
+(default is FULL): /T FULL | LOG | COPY | INCREMENTAL |DIFFERENTIAL <o:p></=
+o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Specifies the previous backup component documen=
+t</span></b><span
+style=3D'font-family:Arial'> for incremental backup: /PRE &lt;previous_bc.x=
+ml&gt;<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Perform an authoritative restore</span></b><span
+style=3D'font-family:Arial'> (useful for AD/ADAM; default is non-authoritat=
+ive)<b
+style=3D'mso-bidi-font-weight:normal'>:</b> /AUTH<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Stop BETEST execution on first writer error</sp=
+an></b><span
+style=3D'font-family:Arial'> (recommended for test suites): /STOPERROR <o:p=
+></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Perform the backup in &#8220;Rollback&#8221; mo=
+de</span></b><span
+style=3D'font-family:Arial'> (i.e. with auto-recovered snapshots): /Rollbac=
+k<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l17 level1 lfo32;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>-<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-family:Arial'>Verbose output</span></b><span style=3D'font-fa=
+mily:
+Arial'>: /V <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>You can exercise =
+a backup
+using the /B command-line option, like this:<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-family:Arial'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&n=
+bsp;
+</span>betest.exe /B /S backup.xml /D C:\BackupDestination /X BetestSampleI=
+nstructions.xml<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>Similarly, you can
+specify a restore using the /R option: <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-family:Arial'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&n=
+bsp;
+</span>betest.exe /R /S backup.xml /D c:\BackupDestination /X BetestSampleI=
+nstructions.xml<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<h2>Sample usage</h2>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>1.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>Create a test directory (C:\BETest). In that
+directory, place:<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span style=3D'font-fami=
+ly:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><b style=3D'mso-bidi-fon=
+t-weight:
+normal'><span style=3D'font-family:Arial'><span style=3D'mso-tab-count:1'>&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>be=
+test.exe<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><b style=3D'mso-bidi-fon=
+t-weight:
+normal'><span style=3D'font-family:Arial'><span style=3D'mso-tab-count:1'>&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>vs=
+writer.exe<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><b style=3D'mso-bidi-fon=
+t-weight:
+normal'><span style=3D'font-family:Arial'><span style=3D'mso-tab-count:1'>&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Be=
+testSample.xml<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><b style=3D'mso-bidi-fon=
+t-weight:
+normal'><span style=3D'font-family:Arial'><span style=3D'mso-tab-count:1'>&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Vs=
+writerSample.xml<o:p></o:p></span></b></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>2.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>Open two elevated command windows and navigate =
+both
+to &quot;C:\BETest&quot;.<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>3.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>In the first command window, start vswriter.exe=
+ using
+the provided sample XML called &quot;VswriterSample.xml&quot;. The command =
+is:<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><span style=3D'ms=
+o-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-tab-count:1'>&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>vswrit=
+er.exe
+VswriterSample.xml<o:p></o:p></b></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span style=3D'font-fami=
+ly:Arial'>Vswriter.exe
+will not output anything until it receives activity from a requestor. You m=
+ay
+quit vswriter.exe using Ctrl-C.<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>4.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>The XML used in step 3 will cause vswriter.exe =
+to lay
+claim to files in &quot;C:\TestPath&quot;. For the purpose of demonstration,
+create several test files at that location.<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>5.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>A sample XML file for performing a backup opera=
+tion
+is provided under the name &quot;BetestSample.xml&quot;. This sample XML fi=
+le
+will utilize the test writer. Run the following command:<o:p></o:p></span><=
+/p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><span style=3D'ms=
+o-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-tab-count:1'>&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>betest=
+.exe
+/B /S backup.xml /D C:\BackupDestination /X BetestSample.xml<o:p></o:p></b>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'text-indent:.5in'><span style=3D'font-fami=
+ly:Arial'>This
+will backup files to &quot;C:\BackupDestination&quot; and will save the bac=
+kup
+document to &quot;C:\BETest\backup.xml&quot;.<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-li=
+st:l9 level1 lfo33;
+tab-stops:list .5in'><![if !supportLists]><span style=3D'font-family:Arial;
+mso-fareast-font-family:Arial'><span style=3D'mso-list:Ignore'>6.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></span></span><![endif]><span
+style=3D'font-family:Arial'>After performing a backup, a restore can be per=
+formed
+using:<o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span style=3D'font-fami=
+ly:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><span style=3D'ms=
+o-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-tab-count:1'>&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>betest=
+.exe
+/R /S backup.xml /D c:\BackupDestination /X BetestSample.xml<o:p></o:p></b>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'><o:p>&nbsp;</o:p>=
+</span></p>
+
+<h2>XML Schema for the BETEST XML instructions file</h2>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'>The
+BETEST.XML file contains an XDR-based description of the schema for the bac=
+kup
+instructions. <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'>To
+see the list of options in detail, you can view this XDR file in Internet
+Explorer &#8211; but make sure that the XDR-SCHEMA.XSL stylesheet file is
+located in the same directory. <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'>Here
+is a sample XML file that selects one component: <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Courier New"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'text-indent:.5in'><span style=3D'font-fami=
+ly:Arial;
+mso-bidi-font-family:"Courier New"'>BetestSample.xml: <o:p></o:p></span></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'>&lt;BETest&gt;</p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;Writer
+writerId=3D&quot;5affb034-969f-4919-8875-88f830d0ef89&quot;&gt;</p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;Component componen=
+tName=3D&quot;TestFiles&quot;
+&gt;</p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;/Component&gt;</p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/Writer&gt;</p>
+
+<p class=3DMsoPlainText style=3D'margin-left:.5in'>&lt;/BETest&gt;<span
+style=3D'font-family:Arial;mso-bidi-font-family:"Courier New"'><o:p></o:p><=
+/span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C6E2ED.42378860
+Content-Location: file:///C:/EA821E05/BETEST-Readme_files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link id=3DMain-File rel=3DMain-File href=3D"../BETEST-Readme.htm">
+<![if IE]>
+<base href=3D"file:///C:\EA821E05\BETEST-Readme_files\header.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-continua=
+tion-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-continua=
+tion-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:header' id=3Dh1>
+
+<p class=3DMsoPlainText><span style=3D'font-family:Arial'>The BETEST test c=
+lient<span
+style=3D'mso-tab-count:6'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span>Copyright
+&copy; 2006, Microsoft Corporation. <o:p></o:p></span></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Def1>
+
+<div style=3D'mso-element:frame;mso-element-wrap:around;mso-element-anchor-=
+vertical:
+paragraph;mso-element-anchor-horizontal:margin;mso-element-left:right;
+mso-element-top:.05pt;mso-height-rule:exactly'>
+
+<table cellspacing=3D0 cellpadding=3D0 hspace=3D0 vspace=3D0 align=3Dright>
+ <tr>
+  <td valign=3Dtop align=3Dleft style=3D'padding-top:0in;padding-right:0in;
+  padding-bottom:0in;padding-left:0in'>
+  <p class=3DMsoFooter style=3D'mso-element:frame;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margi=
+n;
+  mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><!-=
+-[if supportFields]><span
+  class=3DMsoPageNumber><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Times New Roman"'><span
+  style=3D'mso-element:field-begin'></span>PAGE<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span></span></span><![endif]--><!--[i=
+f supportFields]><span
+  class=3DMsoPageNumber><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Times New Roman"'><span
+  style=3D'mso-element:field-end'></span></span></span><![endif]--><span
+  class=3DMsoPageNumber><span style=3D'font-family:Arial;mso-bidi-font-fami=
+ly:"Times New Roman"'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoFooter style=3D'margin-right:.25in'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Df1>
+
+<p class=3DMsoFooter style=3D'margin-right:.25in'>Page <span style=3D'mso-f=
+ield-code:
+" PAGE "'><span style=3D'mso-no-proof:yes'>1</span></span> of <span
+style=3D'mso-field-code:" NUMPAGES "'><span style=3D'mso-no-proof:yes'>2</s=
+pan></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C6E2ED.42378860
+Content-Location: file:///C:/EA821E05/BETEST-Readme_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../BETEST-Readme.htm"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01C6E2ED.42378860--

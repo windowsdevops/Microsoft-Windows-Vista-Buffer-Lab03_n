@@ -1,0 +1,14 @@
+TARGETNAME=firefly
+TARGETTYPE=DRIVER
+
+NTTARGETFILE0=mofcomp
+
+TARGETLIBS=                               \
+        $(DDK_LIB_PATH)\hidparse.lib      
+        
+
+SOURCES=firefly.c \
+        vfeature.c \
+        firefly.rc
+
+

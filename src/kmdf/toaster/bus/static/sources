@@ -1,0 +1,25 @@
+TARGETNAME=StatBus
+TARGETTYPE=DRIVER
+
+
+NTTARGETFILE0=mofcomp
+
+INCLUDES=$(INCLUDES);..\..\inc\
+
+KMDF_VERSION=1
+
+INF_NAME=statbus
+
+MISCFILES=$(OBJ_PATH)\$(O)\$(INF_NAME).inf
+
+TARGETLIBS=$(TARGETLIBS) \
+           $(DDK_LIB_PATH)\ntstrsafe.lib
+
+NTTARGETFILES=
+
+
+SOURCES= busenum.rc \
+         busenum.c \
+         buspdo.c \
+         wmi.c
+

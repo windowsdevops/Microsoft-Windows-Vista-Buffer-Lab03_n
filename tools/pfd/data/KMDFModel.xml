@@ -1,0 +1,3066 @@
+<?xml version="1.0"?>
+<Models xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Function name="WdfChildListCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListRetrievePdo">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListRetrieveAddressDescription">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListBeginScan">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListEndScan">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListBeginIteration">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListRetrieveNextDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListEndIteration">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListAddOrUpdateChildDescriptionAsPresent">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListUpdateChildDescriptionAsMissing">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListUpdateAllChildDescriptionsAsPresent">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfChildListRequestChildEject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionGetCount">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionAdd">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionRemoveItem">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionGetItem">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionGetFirstItem">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCollectionGetLastItem">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCommonBufferCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCommonBufferCreateWithConfig">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCommonBufferGetAlignedVirtualAddress">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCommonBufferGetAlignedLogicalAddress">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCommonBufferGetLength">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfControlDeviceInitAllocate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfControlDeviceInitSetShutdownNotification">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfControlFinishInitializing">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDeviceState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetDeviceState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWdmDeviceGetWdfDeviceHandle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceWdmGetDeviceObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceWdmGetAttachedDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceWdmGetPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceWdmDispatchPreprocessedIrp">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAddDependentUsageDeviceObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAddRemovalRelationsPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceRemoveRemovalRelationsPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceClearRemovalRelationsDevices">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDriver">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceRetrieveDeviceName">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAssignMofResourceName">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetIoTarget">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDevicePnpState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDevicePowerState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDevicePowerPolicyState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAssignS0IdleSettings">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAssignSxWakeSettings">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceOpenRegistryKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetSpecialFileSupport">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetCharacteristics">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetCharacteristics">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetAlignmentRequirement">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetAlignmentRequirement">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitFree">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPnpPowerEventCallbacks">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPowerPolicyEventCallbacks">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPowerPolicyOwnership">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitRegisterPnpStateChangeCallback">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitRegisterPowerStateChangeCallback">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitRegisterPowerPolicyStateChangeCallback">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetIoType">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetExclusive">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPowerNotPageable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPowerPageable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetPowerInrush">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetDeviceType">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitAssignName">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitAssignSDDLString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetDeviceClass">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetCharacteristics">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetFileObjectConfig">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetRequestAttributes">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitAssignWdmIrpPreprocessCallback">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceInitSetIoInCallerContextCallback">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetStaticStopRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceCreateDeviceInterface">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetDeviceInterfaceState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceRetrieveDeviceInterfaceString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceCreateSymbolicLink">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceQueryProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAllocAndQueryProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetPnpCapabilities">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetPowerCapabilities">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetBusInformationForChildren">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceIndicateWakeStatus">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceSetFailed">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceStopIdle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,WaitForD0) == 0" stringvalue="2" />
+        <maxIRQL condition="__formal(1,WaitForD0) != 0" stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceResumeIdle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetFileObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceEnqueueRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceGetDefaultQueue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceConfigureRequestDispatching">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerGetMaximumLength">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerGetMaximumScatterGatherElements">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerSetMaximumScatterGatherElements">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerGetFragmentLength">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaEnablerWdmGetDmaAdapter">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionInitialize">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionInitializeUsingRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionExecute">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionRelease">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionDmaCompleted">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionDmaCompletedWithLength">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionDmaCompletedFinal">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionGetBytesTransferred">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionSetMaximumLength" />
+  <Function name="WdfDmaTransactionGetRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionGetCurrentDmaTransferLength">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDmaTransactionGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDpcCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDpcEnqueue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="31" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDpcCancel">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,Wait) == __true" stringvalue="0" />
+        <maxIRQL condition="__formal(1,Wait) == __false" stringvalue="31" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDpcGetParentObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="31" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDpcWdmGetDpc">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="31" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDriverCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDriverGetRegistryPath">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDriverWdmGetDriverObject" />
+  <Function name="WdfDriverOpenParametersRegistryKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWdmDriverGetWdfDriverHandle" />
+  <Function name="WdfDriverRegisterTraceInfo" />
+  <Function name="WdfDriverRetrieveVersionString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDriverIsVersionAvailable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitWdmGetPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitOpenRegistryKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitQueryProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitAllocAndQueryProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitSetEventCallbacks">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitSetFilter">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoInitSetDefaultChildListConfig">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoQueryForInterface">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoGetDefaultChildList">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoAddStaticChild">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoLockStaticChildListForIteration">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoRetrieveNextStaticChild">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFdoUnlockStaticChildListFromIteration">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFileObjectGetFileName">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFileObjectGetFlags">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFileObjectGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfFileObjectWdmGetFileObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptQueueDpcForIsr" />
+  <Function name="WdfInterruptSynchronize">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptAcquireLock">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+      <PostConditions>
+        <IRQL stringvalue="3" />
+      </PostConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <neverHold stringvalue="Interrupt" />
+      </PreConditions>
+      <PostConditions>
+        <acquire stringvalue="Interrupt" />
+        <saveIRQL />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptReleaseLock">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="3" />
+        <minIRQL stringvalue="3" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <mustHold stringvalue="Interrupt" />
+      </PreConditions>
+      <PostConditions>
+        <release stringvalue="Interrupt" />
+        <restoreIRQL />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptEnable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptDisable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfInterruptWdmGetInterrupt" />
+  <Function name="WdfInterruptGetInfo" />
+  <Function name="WdfInterruptSetPolicy" />
+  <Function name="WdfInterruptGetDevice" />
+  <Function name="WdfIoQueueCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueGetState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueStart">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueStop">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueStopSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueRetrieveNextRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueRetrieveRequestByFileObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueFindRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueRetrieveFoundRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueDrainSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueDrain">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueuePurgeSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueuePurge">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoQueueReadyNotify">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetOpen">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetCloseForQueryRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetClose">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetStart">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetStop">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,Action) == 2" stringvalue="2" />
+        <maxIRQL condition="__formal(1,Action) == 0 || __formal(1,Action) == 1" stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetGetState">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetQueryTargetProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetAllocAndQueryTargetProperty">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetQueryForInterface">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetWdmGetTargetDeviceObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetWdmGetTargetPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetWdmGetTargetFileObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetWdmGetTargetFileHandle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetSendReadSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetFormatRequestForRead">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetSendWriteSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetFormatRequestForWrite">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetSendIoctlSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetFormatRequestForIoctl">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetSendInternalIoctlSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetFormatRequestForInternalIoctl">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetSendInternalIoctlOthersSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoTargetFormatRequestForInternalIoctlOthers">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,PoolType) == 1 || __formal(1,PoolType) == 257" stringvalue="1" />
+        <maxIRQL condition="__formal(1,PoolType) == 0 || __formal(1,PoolType) == 256" stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="1" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="3" />
+      <PreConditions>
+        <reportError condition="__formal(3,BufferSize) == 0" stringvalue="This can't be zero" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryCreatePreallocated">
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <reportError condition="__formal(2,BufferSize) == 0" stringvalue="This can't be zero" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryGetBuffer" />
+  <Function name="WdfMemoryAssignBuffer">
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <reportError condition="__formal(2,BufferSize) == 0" stringvalue="This can't be zero" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryCopyToBuffer">
+    <External>
+      <ExternalID type="param" index="3" />
+      <PreConditions>
+        <reportError condition="__formal(3,NumBytesToCopyTo) == 0" stringvalue="NumBytesToCopyTo can't be zero" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryCopyFromBuffer">
+    <External>
+      <ExternalID type="param" index="3" />
+      <PreConditions>
+        <reportError condition="__formal(3,NumBytesToCopyFrom) == 0" stringvalue="NumBytesToCopyFrom can't be zero" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfLookasideListCreate">
+    <External>
+      <ExternalID type="param" index="1" />
+      <PreConditions>
+        <reportError condition="__formal(1,BufferSize) == 0" stringvalue="This can't be zero" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfMemoryCreateFromLookaside" />
+  <Function name="WdfDeviceMiniportCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDriverMiniportUnload" />
+  <Function name="WdfObjectGetTypedContextWorker" />
+  <Function name="WdfObjectAllocateContext" />
+  <Function name="WdfObjectContextGetObject" />
+  <Function name="WdfObjectReferenceActual" />
+  <Function name="WdfObjectDereferenceActual" />
+  <Function name="WdfObjectCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfObjectDelete">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfObjectQuery" />
+  <Function name="WdfPdoInitAllocate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitSetEventCallbacks">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAssignDeviceID">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAssignInstanceID">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAddHardwareID">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAddCompatibleID">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAddDeviceText">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitSetDefaultLocale">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoInitAssignRawDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoMarkMissing">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoRequestEject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoGetParent">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoRetrieveIdentificationDescription">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoRetrieveAddressDescription">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoUpdateAddressDescription">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoAddEjectionRelationsPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoRemoveEjectionRelationsPhysicalDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfPdoClearEjectionRelationsDevices">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfDeviceAddQueryInterface">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryOpenKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryCreateKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryClose">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryWdmGetHandle" />
+  <Function name="WdfRegistryRemoveKey">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryRemoveValue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryValue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryMemory">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="2" />
+      <PreConditions>
+        <strictTypeMatch stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryMultiString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryUnicodeString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryQueryULong">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignValue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignMemory">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignMultiString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignUnicodeString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRegistryAssignULong">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestCreateFromIrp">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestReuse">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestChangeTarget">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestFormatRequestUsingCurrentType">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestWdmFormatUsingStackLocation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestSend">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetStatus">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestMarkCancelable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestUnmarkCancelable">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestIsCanceled">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestCancelSentRequest">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestIsFrom32BitProcess">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestSetCompletionRoutine">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetCompletionParams">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestAllocateTimer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestComplete">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestCompleteWithPriorityBoost">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestCompleteWithInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetParameters">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveInputMemory">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveOutputMemory">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveInputBuffer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveOutputBuffer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveInputWdmMdl">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveOutputWdmMdl">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveUnsafeUserInputBuffer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRetrieveUnsafeUserOutputBuffer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestSetInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetFileObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestProbeAndLockUserBufferForRead">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestProbeAndLockUserBufferForWrite">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetRequestorMode">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestForwardToIoQueue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestGetIoQueue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestRequeue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestStopAcknowledge">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfRequestWdmGetIrp">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListSetSlotNumber">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListSetInterfaceType">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListAppendIoResList">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListInsertIoResList">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListGetCount">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListGetIoResList">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceRequirementsListRemoveByIoResList">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListAppendDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListInsertDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListUpdateDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListGetCount">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListGetDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfIoResourceListRemoveByDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListAppendDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListInsertDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListGetCount">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListGetDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListRemove">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfCmResourceListRemoveByDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfStringCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfStringGetUnicodeString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfObjectAcquireLock">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <neverHoldGlobal stringvalue="WdfObjectLock, Object" />
+      </PreConditions>
+      <PostConditions>
+        <acquireGlobal stringvalue="WdfObjectLock, Object" />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfObjectReleaseLock">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <mustHoldGlobal stringvalue="WdfObjectLock, Object" />
+      </PreConditions>
+      <PostConditions>
+        <releaseGlobal stringvalue="WdfObjectLock, Object" />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfWaitLockCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWaitLockAcquire">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,Timeout) == 0" stringvalue="0" />
+        <maxIRQL condition="__formal(1,Timeout) != 0 &amp;&amp; *__formal(1,Timeout) == 0" stringvalue="2" />
+        <maxIRQL condition="__formal(1,Timeout) != 0 &amp;&amp; *__formal(1,Timeout) != 0" stringvalue="0" />
+      </PreConditions>
+      <PostConditions>
+        <checkReturn condition="__formal(1,Timeout) != 0" />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfWaitLockRelease">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfSpinLockCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfSpinLockAcquire">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <neverHold stringvalue="SpinLock" />
+      </PreConditions>
+      <PostConditions>
+        <acquire stringvalue="SpinLock" />
+        <saveIRQL />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfSpinLockRelease">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+        <minIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+    <External>
+      <ExternalID type="param" index="0" />
+      <PreConditions>
+        <mustHold stringvalue="SpinLock" />
+      </PreConditions>
+      <PostConditions>
+        <release stringvalue="SpinLock" />
+        <restoreIRQL />
+      </PostConditions>
+    </External>
+  </Function>
+  <Function name="WdfTimerCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfTimerStart">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfTimerStop">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL condition="__formal(1,Wait) == __true" stringvalue="0" />
+        <maxIRQL condition="__formal(1,Wait) == __false" stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfTimerGetParentObject" />
+  <Function name="WdfUsbTargetDeviceCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceRetrieveInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceGetDeviceDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceRetrieveConfigDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceQueryString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceAllocAndQueryString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceFormatRequestForString">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceGetNumInterfaces">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceSelectConfig">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceWdmGetConfigurationHandle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceRetrieveCurrentFrameNumber">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceSendControlTransferSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceFormatRequestForControlTransfer">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceIsConnectedSynchronous">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceResetPortSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceCyclePortSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceFormatRequestForCyclePort">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceSendUrbSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceFormatRequestForUrb">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeGetInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeIsInEndpoint">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeIsOutEndpoint">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeGetType">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeSetNoMaximumPacketSizeCheck">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeWriteSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeFormatRequestForWrite">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeReadSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeFormatRequestForRead">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeConfigContinuousReader">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeAbortSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeFormatRequestForAbort">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeResetSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeFormatRequestForReset">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeSendUrbSynchronously">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeFormatRequestForUrb">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetInterfaceNumber">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetNumEndpoints">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetDescriptor">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetNumSettings">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceSelectSetting">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetEndpointInformation">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetDeviceGetInterface">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetConfiguredSettingIndex">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetNumConfiguredPipes">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbInterfaceGetConfiguredPipe">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfUsbTargetPipeWdmGetPipeHandle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfVerifierDbgBreakPoint" />
+  <Function name="WdfVerifierKeBugCheck" />
+  <Function name="WdfWmiProviderCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiProviderGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiProviderIsEnabled">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiProviderGetTracingHandle">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceRegister">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceDeregister">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceGetDevice">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceGetProvider">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWmiInstanceFireEvent">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="1" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWorkItemCreate">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWorkItemEnqueue">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWorkItemGetParentObject">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="2" />
+      </PreConditions>
+    </External>
+  </Function>
+  <Function name="WdfWorkItemFlush">
+    <External>
+      <ExternalID type="retval" />
+      <PreConditions>
+        <maxIRQL stringvalue="0" />
+      </PreConditions>
+    </External>
+  </Function>
+</Models>

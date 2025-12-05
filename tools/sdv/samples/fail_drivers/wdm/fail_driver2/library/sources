@@ -1,0 +1,4 @@
+TARGETNAME=fail_library2
+TARGETTYPE=DRIVER_LIBRARY
+
+SOURCES = fail_library2.c

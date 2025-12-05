@@ -1,0 +1,23 @@
+_LNG=$(LANGUAGE)
+_INX=..
+STAMP=stampinf -f $@ -a $(_BUILDARCH)
+
+$(OBJ_PATH)\$(O)\$(INF_NAME1).inf: $(_INX)\$(INF_NAME1).inx 
+    copy $(_INX)\$(@B).inx $@
+    $(STAMP)
+
+$(OBJ_PATH)\$(O)\$(INF_NAME2).inf: $(_INX)\$(INF_NAME2).inx 
+    copy $(_INX)\$(@B).inx $@
+    $(STAMP)
+
+mofcomp: $(OBJ_PATH)\$(O)\pcidrv.bmf
+
+$(OBJ_PATH)\$(O)\pcidrv.bmf: ..\pcidrv.mof
+        mofcomp -B:$(OBJ_PATH)\$(O)\pcidrv.bmf ..\pcidrv.mof
+        wmimofck $(OBJ_PATH)\$(O)\pcidrv.bmf
+
+
+
+
+
+

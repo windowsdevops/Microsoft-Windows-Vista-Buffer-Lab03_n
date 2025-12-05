@@ -1,0 +1,25 @@
+!IF 0
+
+Copyright (C) SCM Microsystems, 1998 - 1999
+
+!ENDIF
+
+TARGETNAME=Pscr
+TARGETTYPE=DRIVER
+DRIVERTYPE=WDM
+TARGETLIBS=\
+	$(DDK_LIB_PATH)\smclib.lib \
+	$(DDK_LIB_PATH)\ntoskrnl.lib
+	
+INCLUDES=..\inc
+
+SOURCES=pscr.rc    \
+        PscrLog.mc \
+        PscrNT.c   \
+        PscrCB.c   \
+        PscrCmd.c  \
+        PscrRdWr.c
+
+
+TARGET_DESTINATION=retail
+

@@ -1,0 +1,73 @@
+Action	Description	Template
+s72	L0	L0
+1252	ActionText	Action
+Advertise	Programmet annonseras	
+AllocateRegistrySpace	Registerutrymme allokeras	Ledigt utrymme: [1]
+AppSearch	Sökning efter installerade program sker	Egenskap: [1], Signatur: [2]
+BindImage	Körbara filer binds	Fil: [1]
+CCPSearch	Sökning efter kvalificerande produkter sker	
+CostFinalize	Utrymmeskrav beräknas	
+CostInitialize	Beräknar hur mycket utrymme som krävs	
+CreateFolders	Mappar skapas	Mapp: [1]
+CreateShortcuts	Genvägar skapas	Genvägen: [1]
+DeleteServices	Tjänster tas bort	Tjänsten: [1]
+DuplicateFiles	Dubblettfiler skapas	Fil: [1], Katalog: [9], Storlek: [6]
+FileCost	Utrymmeskrav beräknas	
+FindRelatedProducts	Sökning efter relaterade program sker	Hittade program: [1]
+GenerateScript	Skriptåtgärder skapas:	[1]
+InstallAdminPackage	Filer för nätverksinstallation kopieras	Fil: [1], Katalog: [9], Storlek: [6]
+InstallFiles	Nya filer kopieras	Fil: [1], Katalog: [9], Storlek: [6]
+InstallODBC	ODBC-komponenter installeras	
+InstallServices	Nya tjänster installeras	Tjänst: [2]
+InstallSFPCatalogFile	Systemkatalog installeras	Fil: [1], Beroenden: [2]
+InstallValidate	Installationsprogrammet kontrolleras	
+LaunchConditions	Startvillkor utvärderas	
+MigrateFeatureStates	Funktionstillstånd migreras från relaterade program	Program: [1]
+MoveFiles	Filer flyttas	Fil: [1], Katalog: [9], Storlek: [6]
+MsiPublishAssemblies	Paketinformation publiceras	Programkontext: [1], paketnamn: [2]
+MsiUnpublishAssemblies	Paketinformation avpubliceras	Programkontext: [1], paketnamn: [2]
+PatchFiles	Filer korrigeras	Fil: [1], Katalog: [2], Storlek: [3]
+ProcessComponents	Komponentregistrering uppdateras	
+PublishComponents	Kvalificerade komponenter publiceras	Komponent-ID: [1], Bestämning: [2]
+PublishFeatures	Produktfunktioner publiceras	Funktion: [1]
+PublishProduct	Produktinformation publiceras	
+RegisterClassInfo	Klasservrar registreras	Klass-ID: [1]
+RegisterComPlus	COM+-program och -komponenter registreras	Program-ID: [1]{{, Programtyp: [2], Användare: [3], RSN: [4]}}
+RegisterExtensionInfo	Tilläggsservrar registreras	Filtillägg: [1]
+RegisterFonts	Teckensnitt registreras	Teckensnitt: [1]
+RegisterMIMEInfo	MIME-information registreras	MIME-innehållstyp: [1], Filtillägg: [2]
+RegisterProduct	Produkten registreras	[1]
+RegisterProgIdInfo	Programidentifierare registreras	Program-ID: [1]
+RegisterTypeLibraries	Typbibliotek registreras	Biblioteks-ID: [1]
+RegisterUser	Användare registreras	[1]
+RemoveDuplicateFiles	Dubblettfiler tas bort	Fil: [1], Katalog: [9]
+RemoveEnvironmentStrings	Miljövariabler uppdateras	Namn: [1], Värde: [2], Åtgärd [3]
+RemoveExistingProducts	Program tas bort	Program: [1], Kommandorad: [2]
+RemoveFiles	Filer tas bort	Fil: [1], Katalog: [9]
+RemoveFolders	Mappar tas bort	Mapp: [1]
+RemoveIniValues	INI-filposter tas bort	Fil: [1], Sektion: [2], Nyckel: [3], Värde: [4]
+RemoveODBC	ODBC-komponenter tas bort	
+RemoveRegistryValues	Systemregistervärden tas bort	Nyckel: [1], Namn: [2]
+RemoveShortcuts	Genvägar tas bort	Genvägen: [1]
+RMCCPSearch	Sökning efter kvalificerande produkter sker	
+Rollback	Åtgärden ångras:	[1]
+RollbackCleanup	Säkerhetskopieringar tas bort	Fil: [1]
+SelfRegModules	Moduler registreras	Fil: [1], Mapp: [2]
+SelfUnregModules	Moduler avregistreras	Fil: [1], Mapp: [2]
+SetODBCFolders	ODBC-kataloger initieras	
+StartServices	Tjänster startas	Tjänsten: [1]
+StopServices	Tjänster stoppas	Tjänsten: [1]
+UnmoveFiles	Flyttade filer tas bort	Fil: [1], Katalog: [9]
+UnpublishComponents	Kvalificeringskomponenter avpubliceras	Komponent-ID: [1], Bestämning: [2]
+UnpublishFeatures	Produktfunktioner avpubliceras	Funktion: [1]
+UnpublishProduct	Produktinformation avpubliceras	
+UnregisterClassInfo	Klasservrar avregistreras	Klass-ID: [1]
+UnregisterComPlus	COM+-program och -komponenter avregistreras	Program-ID: [1]{{, Programtyp: [2]}}
+UnregisterExtensionInfo	Tilläggsservrar avregistreras	Filtillägg: [1]
+UnregisterFonts	Teckensnitt avregistreras	Teckensnitt: [1]
+UnregisterMIMEInfo	MIME-information avregistreras	MIME-innehållstyp: [1], Filtillägg: [2]
+UnregisterProgIdInfo	Programidentifierare avregistreras	Program-ID: [1]
+UnregisterTypeLibraries	Typbibliotek avregistreras	Biblioteks-ID: [1]
+WriteEnvironmentStrings	Miljövariabler uppdateras	Namn: [1], Värde: [2], Åtgärd [3]
+WriteIniValues	Värden i INI-filer skrivs	Fil: [1], Sektion: [2], Nyckel: [3], Värde: [4]
+WriteRegistryValues	Systemregistervärden skrivs	Nyckel: [1], Namn: [2], Värde: [3]

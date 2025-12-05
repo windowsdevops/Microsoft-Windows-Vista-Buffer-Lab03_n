@@ -1,0 +1,1265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>Windows SDK Release Notes</title>
+    <style type="text/css">A {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+DIV {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+SPAN {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+UL {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+UL LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+OL {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+OL LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H1 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H2 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H3 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H4 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H5 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+H6 {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+BODY {
+	MARGIN-TOP: 10px; MARGIN-LEFT: 25px
+}
+H1 {
+	FONT-SIZE: 14pt
+}
+H2 {
+	FONT-SIZE: 14pt; MARGIN-LEFT: 15px
+}
+H3 {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 30px
+}
+H4 {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 50px
+}
+DIV.h2content {
+	MARGIN-LEFT: 20px
+}
+DIV.h3content {
+	MARGIN-LEFT: 35px
+}
+DIV.h4content {
+	MARGIN-LEFT: 55px
+}
+CODE {
+	FONT-SIZE: 10pt; FONT-FAMILY: "courier new",courier,
+}
+LI {
+	PADDING-BOTTOM: 8px
+}
+
+div.compressed_list li {
+PADDING-BOTTOM: 0px
+}
+</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <meta content="MSHTML 6.00.2900.2963" name="GENERATOR" />
+  </head>
+  <body>
+    <h1>
+        Windows SDK Release Notes</h1>
+    <hr />
+    <a id="Introduction" />
+    <h2>
+        1. Welcome</h2>
+    <div class="h2content">
+      <p>
+            Welcome to the Windows<sup>®</sup> Software Development Kit (SDK) for Windows Vista™.
+            The Windows SDK contains documentation, samples, headers, libraries, and tools designed
+            to help you develop Windows applications. The documentation, samples, and tools
+            provided in the Windows SDK support application programming interfaces (APIs) available
+            in the Windows Vista, Windows XP Service Pack 2 (SP2), and Microsoft Windows Server
+            2003 Service Pack 1 (SP1) versions of Windows. Not all APIs are supported on all platforms.
+            See the specific API documentation to determine which platform the API supports.
+        </p>
+      <p>
+        <b>Related Tools</b>
+      </p>
+      <div>
+        <p>There are a number of related tools to make your experience with the Windows SDK better:</p>
+        <ul>
+          <li>
+            <a href="http://msdn.microsoft.com/vstudio/express/default.aspx">Microsoft Visual Studio Express</a> 
+            is a set of free, lightweight and easy-to-use 
+            tools for the hobbyist, novice and student developer.</li>
+          <li>
+            <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">Microsoft Windows PowerShell</a> 
+            command line shell and scripting language 
+            helps IT Professionals achieve greater productivity. Using a new admin-focused 
+            scripting language, more than 130 standard command line tools, and consistent 
+            syntax and utilities, Windows PowerShell allows IT Professionals to more easily 
+            control system administration and accelerate automation.</li>
+          <li>
+            <a href="http://msdn.microsoft.com/netframework/">The Microsoft .NET Framework 3.0</a> 
+            (formerly WinFX), is the new managed 
+            code programming model for Windows. It combines the power of the .NET 
+            Framework 2.0 with four new technologies: Windows Presentation Foundation 
+            (WPF), Windows Communication Foundation (WCF), Windows Workflow Foundation 
+            (WF), and Windows CardSpace (WCS, formerly "InfoCard").</li>
+          <li>
+            <a href="http://go.microsoft.com/fwlink/?LinkId=75605">LUA Buglight™</a> is a tool to help both developers and IT Pros (sysadmins) identify 
+            the specific causes of admin-permissions issues (a.k.a., “LUA bugs”) in desktop applications 
+            running on Windows XP, Windows Server 2003, or Windows Vista.  Once the specific causes 
+            have been identified, the bugs can more easily be resolved by fixing the app’s source 
+            code, or by making configuration changes, allowing the app to work correctly for 
+            non-admin users.</li>
+        </ul>
+      </div>
+      <table cellspacing="4" cellpadding="2" width="70%" border="0">
+        <thead>
+          <tr>
+            <td colspan="2">
+              <b>Table of Contents</b>
+            </td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="2">
+              <a href="#Introduction">Welcome</a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#License Agreement">License Agreement</a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#Supported Compiler and Platforms">Supported Compiler, Platforms and Related
+                            Software </a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#Downloading and Installing">Downloading and Installing</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Downloading">Downloading</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Installation">Installation</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Building Samples">Building Samples</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#File System Layout">File System Layout</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Other Tools and Downloads">Other Tools and Downloads</a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#Known Issues">Known Issues</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Setup and General Development">Setup and General Development</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Build Environment">Build Environment</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Documentation">Documentation</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#SDK Tools">SDK Tools</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                         </td>
+            <td>
+              <a href="#Samples">Samples</a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#Windows SDK Product Support">Windows SDK Product Support</a>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#Feedback">Feedback</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <hr />
+    <a id="License Agreement" />
+    <h2>
+        2. License Agreement</h2>
+    <div class="h2content">
+      <p>
+            The contents included in the Windows SDK are licensed to you, the end user. Your
+            use of the SDK is subject to the terms of an End User License Agreement ("EULA")
+            accompanying the SDK and located in the <code>\License</code> subdirectory. You must read and
+            accept the terms of the EULA before you access or use the SDK. If you do not agree
+            to the terms of the EULA, you are not authorized to use the SDK.</p>
+    </div>
+    <hr />
+    <a id="Supported Compiler and Platforms" />
+    <h2>
+        3. Supported Compiler, Platforms and Related Software
+    </h2>
+    <div class="h2content">
+      <p>
+            This release of the Windows SDK supports the RTM release of Microsoft <sup>®</sup>
+            Visual Studio <sup>®</sup>2005. A free trial of Visual Studio 2005 is available at the <a href="http://lab.msdn.microsoft.com/vs2005/get/default.aspx" target="new">Visual
+                Studio 2005 Developer Center</a>. <i>Express Editions</i> of Visual Studio are available 
+                to download from the 
+            <a href="http://msdn.microsoft.com/vstudio/express/default.aspx">Visual Studio Express</a> site, free of charge.
+        </p>
+      <p>
+            This release of the Windows SDK supports x86, and x64 platforms for building and
+            running samples. The IA64 platform is <b>not supported</b> in this release.</p>
+    </div>
+    <hr />
+    <a id="Downloading and Installing" />
+    <h2>
+        4. Downloading and Installing</h2>
+    <div class="h2content">
+      <p>
+            To optimize your Windows SDK setup experience, we strongly recommend that you install
+            the latest updates and patches from <a href="http://go.microsoft.com/fwlink/?LinkId=1682" target="new">Microsoft Update</a> before you begin installing the Windows SDK.</p>
+      <div>
+        <h3>4.1 Downloading</h3>
+        <div class="h3content">
+          <p>
+                    This version of the Windows SDK is availabel in two versions: a DVD ISO image, and
+                    as a web download.
+                    </p>
+          <p>
+                    The DVD ISO image of the Windows SDK available from <a href="http://go.microsoft.com/fwlink/?LinkId=64674">Download Center</a> will not install
+                    the SDK directly on to your hard disk without the use of additional tools. See the
+                    Installation Instructions below for more information. The DVD ISO image requires
+                    a minimum of 1.4 GB of free disk space to install. If you do not have that much
+                    free disk space, you can use the SDK's custom setup options to install a subset
+                    of the content.</p>
+          <p>
+                    The web download is also available from the <a href="http://go.microsoft.com/fwlink/?LinkId=64674">Download Center</a>. The web download will
+                    stream the SDK content to your local machine.
+                </p>
+        </div>
+      </div>
+      <div>
+        <h3>4.2 Installation</h3>
+        <div class="h3content">
+          <p>It is recommended that you uninstall all previous prerelease versions of the Windows SDK 
+            prior to installing this version of the SDK. Note that you may see more than one Windows 
+            SDK product listed in the Upgrade Options screen. All of the Windows SDK products may be 
+            removed by going to Add/Remove Programs, browsing for the Microsoft Windows Software Development 
+            Kit, and selecting Remove (in Windows XPSP2 and Windows Server 2003) or Uninstall (in Windows Vista).</p>
+          <p>
+            <b>Please install on a clean machine or completely uninstall any pre-releases</b>
+                    of the WinFX Runtime Components 3.0, the WinFX SDK, the Platform SDK, the Windows
+                    SDK, the .NET Framework redistributable, Microsoft Visual Studio<sup> ®</sup> ,
+                    and their dependencies before installing this release. These older components may
+                    interfere with this release, causing setup to fail or break functionality.</p>
+          <p>
+            <b>To install on Microsoft Windows XP Service Pack 2 or Microsoft Windows 2003 Server
+                        Service Pack 1:</b>
+          </p>
+          <ol>
+            <li>If you intend to install the .NET Framework 3.0 components available in the Windows
+                        SDK, install the .NET Framework 3.0 from the <a href="http://msdn.microsoft.com/downloads/">Download Center</a>.</li>
+            <li>If you created a DVD ISO image or mounted a virtual drive and launch setup.exe, choose
+                        the appropriate option to install the Windows SDK: insert the SDK DVD into a DVD-ROM
+                        drive and click setup.exe, or after the virtual drive is mounted, launch the setup.exe
+                        from within that virtual drive.</li>
+            <li>Follow the instructions in the Windows SDK Setup wizard.</li>
+            <li>
+              <b>Optional:</b> Install Microsoft Visual Studio 2005.</li>
+            <li>
+              <b>Optional:</b> Install the Visual Studio 2005 Extensions for .NET Framework 3.0
+                        from the <a href="http://msdn.microsoft.com/downloads/">Download Center</a>. </li>
+            <li>
+                    Access the Windows SDK through the Start menu at Microsoft Windows SDK. The Start
+                    menu folder contains pointers to the documentation (which contains the samples for
+                    .NET Framework 3.0), tools, debug and release build environments. Documentation
+                    for the Windows SDK is also available on MSDN Online at <a href="http://windowssdk.msdn.microsoft.com/library" target="new">http//windowssdk.msdn.microsoft.com/library</a>.</li>
+          </ol>
+          <p>To install on Windows Vista, step 1 in not necessary. The .NET Framework 3.0 is available by default in Windows Vista.</p>
+          <p>
+            <b>Note:</b> If you intend to use Visual Studio to develop .NET Framework 3.0 applications,
+                    you must install the Windows SDK before installing the Visual Studio 2005 Extensions
+                    for .NET Framework 3.0. It is essential that you use the version of Visual Studio
+                    identified in the Installation Instructions in .NET Framework 3.0 setup.</p>
+        </div>
+      </div>
+      <div>
+        <h3>4.3  
+                Building Samples</h3>
+        <div class="h3content">
+          <p>
+                    When building samples, do so in a directory outside of Program Files to which you
+                    have write access. For more information, see the Samples section below.
+                </p>
+        </div>
+      </div>
+      <div>
+        <h3>4.4  
+                File System Layout</h3>
+        <div class="h3content">
+          <p>
+                    By default, the Windows SDK is installed to your hard disk in the locations described
+                    in the following table. This list is not complete, but covers the most common directories.</p>
+          <table cellspacing="4" cellpadding="2" width="40%" border="0">
+            <tbody>
+              <tr>
+                <th style="width: 230px">
+                  <p>
+                    <b>Directory</b>
+                  </p>
+                </th>
+                <th style="width: 550px">
+                  <p>
+                    <b>Contents</b>
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \Bin</p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Windows SDK tools</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \Help
+                                </p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Windows SDK documentation
+                                </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \Include</p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Windows SDK headers</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \Lib</p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Import libraries and TLB files
+                                </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \License
+                                </p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Windows SDK license information</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 230px">
+                  <p>
+                                    \Samples</p>
+                </td>
+                <td style="width: 550px">
+                  <p>
+                                    Windows SDK samples</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div>
+        <h3>4.5  
+                Other Tools and Download</h3>
+        <div class="h3content">
+          <div style="margin-left: 20px;">
+            <p>The latest version of <a href="http://msdn.microsoft.com/netframework/">Microsoft .NET Framework 3.0</a></p>
+            <p>Windows PowerShell is available for x86, x64 and IA64 in the following versions:</p>
+            <ul>
+              <li>
+                <a href="http://go.microsoft.com/fwlink/?LinkID=73813">Windows PowerShell (English)</a>
+              </li>
+              <li>
+                <a href="http://go.microsoft.com/fwlink/?LinkID=73816">Windows PowerShell (Localized)</a>
+              </li>
+              <li>
+                <a href="http://go.microsoft.com/fwlink/?LinkID=73817">Windows PowerShell (Multilingual User Interface)</a>
+              </li>
+            </ul>
+            <p>More information on Windows PowerShell is available from the 
+            <a href="http://blogs.msdn.com/powershell/">PowerShell Team Blog</a> 
+            and the <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">Windows PowerShell Technology Center</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <a id="Known Issues" />
+    <h2>
+        5. Known Issues</h2>
+    <div class="h2content">
+        This release has the following known issues. Known issues are categorized by content
+        type.</div>
+    <a id="Setup and General Development" />
+    <h3>
+        5.1 Setup and General Development</h3>
+    <div>
+      <h4>5.1.1  
+                Windows SDK Disk Space Requirements </h4>
+      <div class="h4content">
+        <p>
+                The complete DVD ISO installation of the Windows SDK requires 1.4 GB or more disk
+                space to install successfully. Please verify that the computer you are installing
+                to has at least the minimum required disk space before beginning setup. If the minimum
+                required disk space is not available, setup will return a fatal error.
+            </p>
+      </div>
+    </div>
+    <div>
+      <h4>5.1.2 
+                Several SDK Components Must be Uninstalled Separately in Add/Remove Programs</h4>
+      <div class="h4content">
+        <p>
+                The Windows SDK installs both its core components and external applications as separate
+                MSI files. Please note that several applications will need to be uninstalled from
+                Add/Remove Programs in order to remove all SDK components. Those components are:
+            </p>
+        <ul>
+          <li>Debugging Tools for Windows</li>
+          <li>Microsoft Windows Software Development Kit</li>
+          <li>Microsoft .NET Compact Framework 2.0</li>
+          <li>Microsoft FxCop 1.3.5</li>
+          <li>Microsoft Document Explorer</li>
+        </ul>
+        <p>
+                Note that you may have installed some of these applications outside of your SDK
+                installation. Removing those applications from Add/Remove Programs will make those
+                applications unavailable for other applications that may use them.</p>
+        <p>
+                Due to SDK componentization, we recommend re-running the SDK setup.exe from your
+                download location and choosing which features to install. For example, if you choose
+                "Microsoft Windows Software Development Kit" from Add/Remove Programs and then "Change,"
+                you will see a different screen that does not show all the internal and external
+                content installed as MSI files.
+            </p>
+        <p>
+                If you originally only installed the x86 development environment and now want to
+                install the x64 development environment, you need to relaunch the SDK setup.exe
+                versus launching the "Change" functionality for the "Microsoft Windows Software
+                Development Kit" located in Add/Remove Programs in the Control Panel.</p>
+      </div>
+    </div>
+    <div>
+      <h4>5.1.3 
+                VCIntegrate doesn't update <code>include</code>, <code>lib</code> or <code>bin</code> paths in Visual Studio</h4>
+      <div class="h4content">
+          Visual Studio needs to be run at least once before VCIntegrate is run. 
+          After installing Visual Studio, run Visual Studio, then run VCIntegrate.
+        </div>
+    </div>
+    <div>
+      <h4>5.1.4 
+        Visual Studio 2005 is Required for .NET Compact Framework Development</h4>
+      <div class="h4content">
+        The SDK provides documentation and sample code that targets the .NET Compact Framework.
+        However, actual development of .NET Compact Framework applications requires Visual
+        Studio 2005.</div>
+    </div>
+    <div>
+      <h4>5.1.5 
+            Build tools fail on x64
+            </h4>
+      <div class="h4content">
+            Make sure the x64 tools are being used, and not the x86 tools. The x64 tools are located 
+            in "Program Files" directory and the x86 tools are located in the "Program Files (x86)" directory.
+</div>
+    </div>
+    <div>
+      <h4>5.1.6 
+            Running SETENV.CMD from a CMD windows fails
+            </h4>
+      <div class="h4content">
+            SETENV.CMD requires that both command extensions and environment variable expansion be turned on.
+            Either use the "CMD Shell" shortcut installed with the Windows SDK or ensure that CMD
+            is launch with the /V:ON and /E:ON parameters. For example, <code>CMD \V:ON \E:ON</code>.
+</div>
+    </div>
+    <div>
+      <h4>5.1.7 
+                VSS Software Provider ID is required to Use Some APIs</h4>
+      <div class="h4content">
+            The VSS Software Provider ID is needed to use various APIs, including the shadow
+            copy storage management interfaces (IVSSSnapshotMgmt).
+            <p>
+                To add this provider ID, define a const GUID and use that in your code.</p><p><code>// {b5946137-7b9f-4925-af80-51abd60b20d5}</code></p><p><code>static const GUID VSS_SWPRV_ProviderID = </code></p><p><code>{ 0xb5946137, 0x7b9f, 0x4925, { 0xaf, 0x80, 0x51, 0xab, 0xd6, 0x0b, 0x20, 0xd5
+                    } };</code></p><p>
+                In a few cases, you may need to use the Software Provider GUID to access some APIs
+                (GetProviderMgmtInterface method on the IVSSSnapshotMgmt interface.
+            </p><p>
+                Vssadmin list providers can also obtain the GUID.</p></div>
+    </div>
+    <div>
+      <h4>5.1.8 
+        Volume Shadow Copy Service tools and samples can't be found</h4>
+      <div class="h4content">
+        Volume Shadow Copy Service tools are located in <code>bin\vsstools</code> (or <code>bin\x64\vsstools</code>
+         and <code>bin\ia64\vsstools</code> 
+        for the x64 and ia64 version, respectively) and the corresponding samples are 
+        in <code>samples\winbase\vss</code>.</div>
+    </div>
+    <div>
+      <h4>5.1.9 
+        Pausing and Resuming an Animation Does Not Work as Expected when <code>DesiredFrameRate</code> is Set</h4>
+      <div class="h4content">
+        <code>Timeline</code> objects with a <code>DesiredFrameRate</code> value other than a null reference (Nothing in Visual Basic) 
+        do not pause and resume as expected.</div>
+    </div>
+    <div>
+      <h4>5.1.10 
+       An <code>InvalidCastException</code> occurs when clicking on a ListBoxItem/ComboBoxItem/TabItem after animating <code>SelectedIndex</code></h4>
+      <div class="h4content">
+        Clicking on a ListBoxItem, ComboBoxItem, or TabItem after animating the <code>SelectedIndex</code> property of 
+        its ListBox, ComboBox, or TabControl container throws an <code>InvalidOperationException</code>.</div>
+    </div>
+    <div>
+      <h4>5.1.11 Performance Impacts of <code>HandoffBehavior.Compose</code></h4>
+      <div class="h4content">
+        <p>When you apply an animation to a property using the Compose HandoffBehavior, any clocks objects 
+        previously associated with that property continue to consume system resources; the timing system 
+        will not remove these clocks automatically. </p>
+        <p>To avoid performance issues when you apply a large number of clocks using <code>HandofffBehavior.Compose</code>, 
+        you should remove composing clocks from the animated property after they complete. There are several ways to 
+        remove a clock.</p>
+        <ol>
+          <li>To remove all clocks from a property, use the <code>ApplyAnimationClock</code> or <code>BeginAnimation</code> 
+        method of the animation object. Specify the property being animated as the first parameter, and a null reference 
+        (Nothing in Visual Basic) as the second. This will remove all animation clocks from the property.</li>
+          <li>To remove a specific <code>AnimationClock</code> from a list of clocks, use the <code>Controller</code> 
+        property of the <code>AnimationClock</code> to retrieve a <code>ClockController</code>, then call the 
+        <code>ClockController.Remove()</code> method of the <code>ClockController</code>. This is typically done 
+        in the <code>Completed</code> event handler for a clock. Note that only root clocks can be controlled by 
+        a <code>ClockController</code>; the <code>Controller</code> property of a child <code>Clock</code> will return 
+        a null reference (Nothing in Visual Basic). Note also that the <code>Completed</code> event will not be called 
+        if the effective duration of the clock is forever.  In that case, the user will need to determine when to 
+        call <code>ClockController.Remove()</code>.</li>
+        </ol>
+        <p>This is primarily an issue for animations on objects that have a long lifetime.  When an object is garbage 
+collected, its clocks will also be disconnected and garbage collected.</p>
+      </div>
+    </div>
+    <a id="Build Environment" />
+    <h3>
+        5.2 Build Environment</h3>
+    <div class="h3content">
+        The following section describes and offers possible workarounds for known issues
+        with compilers and known issues with headers and libraries included in the Windows
+        SDK.
+    </div>
+    <div>
+      <h4>5.2.1 
+        Headers and Libraries: Using the Windows SDK to Develop Win32 C++ Applications
+        With Visual Studio 2005</h4>
+      <div class="h4content">
+        In order to utilize Windows SDK headers, libraries, and tools within Visual Studio
+        2005, the SDK-provided Visual Studio registration tool must first be run. The Visual
+        Studio registration tool must run in elevated administrator mode on a Windows Vista
+        computer. When running this tool on a Windows Vista machine it must be run for each
+        user.
+        <p>
+            To run the Visual Studio Registration Tool, go to:
+        </p><p><code>Start --&gt; All Programs --&gt; Microsoft Windows SDK --&gt; Visual Studio Registration--&gt;
+            Register Windows SDK Directories with Visual Studio 2005.</code></p></div>
+    </div>
+    <div>
+      <h4>5.2.2 
+        Compilers: The J# Compiler is Not Available in This Version of the Windows
+        SDK</h4>
+      <div class="h4content">
+        J# samples will not build using the Windows SDK because there is no appropriate
+        build environment.
+        <p>
+            There is no workaround. This edition of the Windows SDK does not support building
+            J# applications.
+        </p></div>
+    </div>
+    <div>
+      <h4>5.2.3 
+        Compilers: Debugging Windows Presentation Foundation (WPF) Applications with
+        Kernel Debugger Active May Result In an Error</h4>
+      <div class="h4content">
+        When debugging WPF applications, the following error message may appear:
+        <p>
+            Debugging is not possible because a kernel debugger is enabled on the system.</p><p>
+            This message occurs while debugging managed code on a system running Windows<sup> ®</sup>
+            NT, Windows<sup> ®</sup> 2000, or Windows XP that has been started in debug mode.</p></div>
+    </div>
+    <div>
+      <h4>5.2.4 
+        Msbuild Reports a Dependency upon the Microsoft .NET Framework SDK 2.0</h4>
+      <div class="h4content">
+        The Windows SDK does not set the <code>HKLM\Software\Microsoft\.NETFramework\sdkInstallRootv2.0</code>
+        registry key to a string value containing the root directory of the Windows SDK
+        installation. However, some MSBuild tasks may expect this registry key to be set.
+        If you already have the .NET Framework SDK 2.0 or Visual Studio 2005 set this key
+        would be set and you should not encounter a problem. However, if you install the
+        Windows SDK without either the .NET Framework SDK or Visual Studio 2005, you may
+        receive an error message from MSBuild tasks with a dependency on this key.
+        <p>
+            To work around this issue set the string value of this key to the root directory
+            of the Windows SDK installation. By default, this is: <code>C:\Program Files\Microsoft
+            SDKs\Windows\v6.0</code></p><p>Additionally, in order to use <code>AL.exe</code> the <code>ALToolPath</code> parameter must be set and passed to
+            <code>msbuild</code>. For the default install location, this can be done using the following command:</p><p><code>msbuild /p:ALToolPath="C:\Program Files\Microsoft SDKs\Windows\v6.0\Bin"</code></p></div>
+    </div>
+    <div>
+      <h4>5.2.5 
+        Building files that use DirectX fails</h4>
+      <div class="h4content">
+        Some header files (including d3dtypes.h, d3drmdef.h and d3d.h) rely on files installed with the DirectX SDK. 
+        To build with these files, the <a href="http://go.microsoft.com/fwlink/?linkid=58369&amp;clcid=0x409">DirectX SDK</a> must be installed.
+
+    </div>
+    </div>
+    <div>
+      <h4>5.2.6 
+        The build environment for x64 does not point to the 64bit framework directory.</h4>
+      <div class="h4content">
+        The build environment for x64 does not point to the 64bit framework directory. 
+        To correct this, open <code>Bin\SetEnv.Cmd</code> and change line number 204 from:
+
+<p><code>SET FxTools=%windir%\Microsoft.NET\Framework\v2.0.50727</code></p><p>to</p><p><code>SET FxTools=%windir%\Microsoft.NET\Framework64\v2.0.50727</code></p><p>You will need administrator privileges to perform this. Using this method, invoking <code>SetEnv.cmd</code>
+ with the /x86 parameter will cause the build environment to use the x86 frameworks. Otherwise, 
+ the x64 frameworks will be used.</p></div>
+    </div>
+    <a id="Documentation" />
+    <h3>
+        5.3 Documentation</h3>
+    <div>
+      <h4>5.3.1 
+        No “How Do I” Articles Are Available From the Windows SDK Documentation Viewer</h4>
+      <div class="h4content">
+        The <code>How Do I</code> feature might be removed in a future release. There is no workaround
+        for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.3.2 
+        Some In-Page Language Filter Options May Filter Out Required Syntax Blocks
+        in WPF Reference Pages</h4>
+      <div class="h4content">
+        In some cases, both XAML and either C# or VB code are required to successfully build
+        and run samples. Applying either the C#, VB, or XAML filters alone may exclude necessary
+        syntax from the page view. This is currently by design, and the design may be revisited
+        in a later release.
+    </div>
+    </div>
+    <br />
+    <br />
+    <a id="SDK Tools" />
+    <h3>
+        5.4 SDK Tools</h3>
+    <div class="h3content">
+        This section describes known issues with Windows SDK tools and possible workarounds.
+    </div>
+    <div>
+      <h4>5.4.1 
+        Windows Powershell Can Be Downloaded Directly</h4>
+      <div class="h4content">
+        Windows PowerShell was available to customers and partners as a part of the Windows
+        SDK. This is no longer the case. Now, Windows PowerShell can be downloaded directly.
+            <ul><li><a href="http://go.microsoft.com/fwlink/?LinkID=73813">Windows PowerShell (English)</a></li><li><a href="http://go.microsoft.com/fwlink/?LinkID=73816">Windows PowerShell (Localized)</a></li><li><a href="http://go.microsoft.com/fwlink/?LinkID=73817">Windows PowerShell (Multilingual User Interface)</a></li></ul><p>More information on Windows PowerShell is available from the 
+            <a href="http://blogs.msdn.com/powershell/">PowerShell Team Blog</a> 
+            and the <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">Windows PowerShell Technology Center</a>.
+            </p></div>
+    </div>
+    <div>
+      <h4>5.4.2 
+        The TAPI Browser (Tb3x.Exe) Has Been Deprecated and Removed From the Windows SDK</h4>
+      <div class="h4content">
+        Tb3x.exe has been deprecated and removed from the Windows SDK. There is no known
+        workaround for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.4.3 
+        The Application Verifier tool is Not Available in the Windows SDK</h4>
+      <div class="h4content">
+        The Application Verifier tool is not available in the Windows SDK. It ships as part
+        of the Windows Application Compatibility Toolkit.
+        <p>
+            To work around this issue, download the <a href="http://go.microsoft.com/fwlink/?linkid=55596&amp;clcid=0x409">
+                Windows Application Compatibility Toolkit</a> from Download Center.</p></div>
+    </div>
+    <div>
+      <div>
+        <h4>5.4.5 
+        The Configuration Editor Tool (SvcConfigEditor.exe) Reloads the Config File When It Is Changed by Another
+        Entity</h4>
+        <div class="h4content">
+        If you’re using SvcConfigEditor.exe to edit a config file and another process or
+        editor accesses that file, SvcConfigEditor.exe will automatically reload the file.
+        For example, this can happen when anti-virus software scans the config file. The
+        reload will cause you to lose any changes made to the config file since SvcConfigEditor.exe
+        last saved it.
+        <p />
+        To work around this issue, make sure SvcConfigEditor.exe is the only process that
+        accesses the file during a session.</div>
+      </div>
+      <h4>5.4.5 
+        Possible Application Exception after Removing localIssuer Address Using The Configuration 
+        Editor Tool (SvcConfigEditor.exe)</h4>
+      <div class="h4content">
+        If you use SvcConfigEditor.exe to delete the address value in the localIssuer element
+        of clientCredential in the WCF Endpoint Behavior, the tool will create an invalid
+        configuration file and your application will throw an exception. This is because
+        SvcConfigEditor.exe doesn’t remove localIssuer when the localIssuer value is an
+        empty string (an unexpected value).
+        <p />
+        To work around this issue, manually remove the localIssuer element using some other
+        editor, such as Notepad.</div>
+    </div>
+    <div>
+      <h4>5.4.6 
+       The TraceViewer Tool (SvcTraceViewer.exe) Does Not Display Arabic Characters Correctly</h4>
+      <div class="h4content">
+        In traces that contain Arabic characters, the XML view in SvcTraceViewer.exe may
+        render the characters in reverse order.
+        <p />
+        To work around this issue use the Formatted View, which displays the traces in the
+        correct character order. You can also copy the text from the XML view and paste
+        it into some other editor that displays the characters in the correct order.</div>
+    </div>
+    <div>
+      <h4>5.4.7 
+        Code Generation Language Support in Service Model Metadata Utility Tool (SvcUtil.exe)</h4>
+      <div class="h4content">
+        SvcUtil.exe can generate code for web service proxies and data types from metadata
+        in any language that has a managed code provider. SvcUtil.exe has been tested with
+        the C#, Visual Basic, and C++ managed code providers. Other code providers have
+        not been tested and may generate code that does not compile or may be otherwise
+        unusable.</div>
+    </div>
+    <div>
+      <h4>5.4.8 Service Model Metadata Utility Tool (SvcUtil.exe) Can Throw InvalidChannelBindingException When Importing WSDL from Certain Endpoints</h4>
+      <div class="h4content">
+        <p>
+                While WCF allows setting the ReliableSession’s Binding Element InactivityTimeout
+                or AcknowledgementInterval properties to TimeSpan.MaxValue, WCF will not consume
+                WSDL generated by an endpoint with such settings. Instead, the import will fail
+                and SvcUtil.exe will throw an InvalidChannelBindingException.</p>
+        <p>
+                To work around this issue, after downloading the WSDL, manually change the TimeSpan.MaxValue
+                to 2147483647 (Int32.MaxValue). Then, in the generated configuration file, change
+                the inactivityTimeout or acknowledgementInterval attribute from “24.20:31:23.6470000”
+                to “Infinite”.</p>
+      </div>
+    </div>
+    <div>
+      <h4>5.4.9 Managed C++ Code Generated Using Service Model Metadata Utility Tool (SvcUtil.exe) Tool May Not Compile</h4>
+      <div class="h4content">
+        You can use the SvcUtil.exe tool to generate code for web service proxies and data types from metadata. 
+        However, there are known issues with the C++ code provider in Visual Studio 2005 and the .NET Framework 
+        2.0 SDK that can cause the tool to generate Managed C++ code that may not compile. These issues 
+        with the C++ code provider will be addressed in a future release of Visual Studio 2005.
+        </div>
+    </div>
+    <div>
+      <h4>5.4.10 Code Generation Language Support in Service Model Metadata Utility Tool (SvcUtil.exe)</h4>
+      <div class="h4content">Svcutil.exe can generate code for web service proxies and data types from metadata 
+        in any language that has a managed code provider.  Svcutil has been tested with the C#, VB, and C++ 
+        managed code providers.  Other code providers have not been tested and may generate code that does 
+        not compile or may be otherwise unusable.</div>
+    </div>
+    <div>
+      <h4>5.4.11 Service Model Metadata Utility Tool (SvcUtil.exe) Can’t Generate Data Contracts from a Running Service</h4>
+      <div class="h4content">
+        <p>
+                An example at the end of the svcutil.exe help output indicates that you can use
+                the /dataContractOnly (/dconly) option to generate Data Contracts from a running
+                service:</p>
+        <code>svcutil /dconly http://service/metadataEndpoint
+                <br />
+                - Generate Data Contract types from a running service or online metadata documents.
+            </code>
+        <p>
+                This usage does not work. You can only use the /dconly option to generate Data Contracts
+                from local metadata files.</p>
+      </div>
+    </div>
+    <div>
+      <h4>5.4.12 MSBuild will use the build tools shipped with Visual Studio (for example, VCBuild) even when used from the Windows SDK build environment</h4>
+      <div class="h4content">
+        If Visual Studio is installed, MSBuild is hard coded to use the tools installed with Visual Studio.
+         These may not be the latest versions. To ensure the latest tools installed by the Windows SDK
+          are being used, use the tools located in the Bin directory of the Windows SDK install
+          directory (by default, C:\Program Files\Microsoft SDKs\Windows\v6.0 ).
+        </div>
+    </div>
+    <a id="Samples" />
+    <h3>
+        5.5 Samples</h3>
+    <div class="h3content">
+        This section describes known issues with Windows SDK samples and possible workarounds.
+        <p><b>Note</b> Some .NET Framework 3.0 samples have specific dependencies or setup
+            requirements. If you find that a sample in the samples .zip files is not working
+            properly, first check the sample page in the documentation for instructions.
+        </p></div>
+    <div>
+      <h4>5.5.1 
+        Building Samples from a Directory Other Than the Sample Directory</h4>
+      <div class="h4content">
+        <p>When building Samples, do so in a directory outside of Program Files to which you
+        have write access. To build from the command line:</p>
+        <ol>
+          <li>Copy the sample to a working folder not under Program Files. Copying to a location
+            other than Program Files makes it possible to maintain a pristine copy of the samples
+            installed by the SDK as well as avoid issues when writing to files and directories
+            located under Program Files.</li>
+          <li>Open either the CMD Shell or PowerShell command prompt.</li>
+          <li>
+            <p>Build the sample from the command line as follows:</p>
+            <ul>
+              <li>
+                <p>
+                            Build a makefile by typing <code>nmake.</code></p>
+              </li>
+              <li>
+                <p>
+                            Build a .csproj file by typing <code>msbuild mysample.csproj.</code></p>
+              </li>
+              <li>
+                <p>
+                            Build a .vbproj file by typing <code>msbuild mysample.vbproj.</code></p>
+              </li>
+              <li>
+                <p>
+                            Build a .vcproj by typing <code>vcbuild mysample.vcproj.</code></p>
+              </li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+    </div>
+    <div>
+      <h4>5.5.2 
+        Not All C++ Samples with Visual C++ 2005 Project Files Have Configurations
+        for X64</h4>
+      <div class="h4content">
+        Not all samples with Visual C++ 2005 project files have configurations to build
+        for X64. To work around this issue, load the sample in Visual C++ 2005 and update <code>Configuration
+        Manager</code> under <code>Project | Properties</code>. Additionally, if you do not install libraries
+        for all CPU architectures, some samples with Visual C++ 2005 project files may fail
+        to build (link fails with "fatal error LNK1181: cannot open input file") for all
+        configurations in the project file. For example, if a sample has an x86 configuration
+        and no x86 libraries were installed (the default install setting when installing
+        the SDK on a X64 machine), that sample's x86 configuration will fail to build.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.3 
+        Where to Find .NET Framework 3.0 Samples</h4>
+      <div class="h4content">
+        Samples demonstrating .NET Framework 3.0 can be found individually in the SDK documentation.
+        Each sample has its own description page. From each sample page, you can view the
+        source files for those samples as well as individually download all the files of
+        that sample to a chosen location. The .NET Framework 3.0 samples can be accessed
+        in bulk by directly opening the sample .zip files located in %MSSDK%\Samples.</div>
+    </div>
+    <div>
+      <h4>5.5.4 
+        Building an Application with the SDK and ATL or MFC</h4>
+      <div class="h4content">
+        The following samples require Visual Studio 2005 to build either because an ATL
+        or MFC header is required that Visual Studio 2005 ships.
+        <p>
+            The SDK does not come with either ATL or MFC headers, libraries, or runtimes. However,
+            if you have Visual C++ 2005 (non-Express editions) installed on your system, you
+            can use the SDK to build using ATL or MFC.</p><p>
+            1. Open an SDK command window.</p><p>
+            2. Type <code>cd %MSSDK%\Setup .</code></p><p>
+            3. Run <code>VCIntegrate.exe .</code></p><p>
+            4. From this point forward, command windows will now have the proper environment
+            settings to build an application that takes advantage of the SDK.</p><p><b>Note:</b> If you want to disable support, run <code>VCIntegrate /u</code> to uninstall
+            changes and return to command windows with no ATL or MFC support.</p><p>
+            The following samples require an ATL or MFC header that Visual Studio 2005 ships with,
+            but the Windows SDK does not ship with.</p><div class="compressed_list"><ul><li>\com\administration\explore.vc</li><li>\multimedia\audio\aecmicarray</li><li>\multimedia\audio\multichan\</li><li>\multimedia\gameux</li><li>\multimedia\gdi\icm\devicemodelplugin</li><li>\multimedia\gdi\icm\gamutmapmodelplugin</li><li>\multimedia\wia\getimage</li><li>\multimedia\windowsmediaservices9\authentication</li><li>\multimedia\windowsmediaservices9\cacheproxy\cplusplus</li><li>\multimedia\windowsmediaservices9\datasource</li><li>\multimedia\windowsmediaservices9\eventnotification</li><li>\multimedia\windowsmediaservices9\playlist</li><li>\multimedia\wpd\wpdapisample</li><li>\netds\adsi\samples\activedir\propsheethost\</li><li>\netds\adsi\samples\dsui\scpext\scpcmenu\</li><li>\netds\adsi\samples\dsui\scpext\scpproppage\</li><li>\netds\adsi\samples\dsui\scpext\scpwizard\</li><li>\netds\adsi\samples\dsui\userext\userproppage\</li><li>\netds\adsi\samples\dsui\userext\userwizard\</li><li>\netds\adsi\samples\general\adqi\</li><li>\netds\adsi\samples\general\adserror\</li><li>\netds\adsi\samples\general\adsidump\</li><li>\netds\eap\eaphost</li><li>\netds\fax\devicesetting\</li><li>\netds\fax\faxaccount\</li><li>\netds\fax\faxjoboperations\</li><li>\netds\fax\faxreassign\</li><li>\netds\fax\faxsecurity\</li><li>\netds\fax\foldersenum\</li><li>\netds\fax\outboundrouting\</li><li>\netds\fax\routingextension\</li><li>\netds\fax\sendfax\</li><li>\netds\fax\serverconfig\</li><li>\netds\messagequeuing\c_draw</li><li>\netds\messagequeuing\imp_draw\</li><li>\netds\messagequeuing\mqapitst</li><li>\netds\messagequeuing\mqapitst\</li><li>\netds\messagequeuing\mqf_draw</li><li>\netds\messagequeuing\mqpers\</li><li>\netds\nap\sdkqec</li><li>\netds\nap\shv</li><li>\netds\netmon\experts\blrplate\</li><li>\netds\ras\customdial\</li><li>\netds\ras\phoneentry\</li><li>\netds\rras\eap\</li><li>\netds\rtc\client\cpp\rtcincoming\</li><li>\netds\rtc\client\cpp\rtcoutgoing\</li><li>\netds\rtc\client\cpp\rtcsample\</li><li>\netds\tapi\tapi3\cpp\msp\samplemsp\</li><li>\netds\tapi\tapi3\cpp\pluggable\</li><li>\netds\upnp\dco_dimmerservice\</li><li>\netds\upnp\genericucp\cpp\</li><li>\netds\upnp\registerdevice\</li><li>\netds\wlan\autoconfig</li><li>\security\authorization\azman\azmigrate</li><li>\security\capicom\cpp\isapicertpolicy</li><li>\security\certservices\exit\c++\windows.net\</li><li>\security\certservices\exit\c++\windows2000\</li><li>\security\certservices\policy\c++\windows.net\</li><li>\security\certservices\policy\c++\windows2000\</li><li>\security\credentialprovider</li><li>\tabletPC\advreco\cpp</li><li>\tabletPC\basicinkanalysis\cpp</li><li>\tabletPC\tpcinfo\cpp</li><li>\web\bits\bits_ie\</li><li>\web\bits\upload\</li><li>\web\iis\components\cpp\intermediate</li><li>\web\iis\components\cpp\simple\</li><li>\web\iis\rsca</li><li>\web\networking\asyncdemo\</li><li>\winbase\cluster\win2003\clipbookserver\clipbook serverex\</li><li>\winbase\cluster\win2003\filesharesample\file share sampleex\</li><li>\winbase\rdc</li><li>\winbase\storage\optical\imapi2sample</li><li>\winbase\vss\vshadow</li><li>\winbase\vss\vsssampleprovider</li><li>\winbase\winsat\initiateassessment\cpp</li><li>\winbase\wtsapi\wtsapi\</li><li>\winui\globaldev\cssamp\</li><li>\winui\globaldev\globaldev\</li><li>\winui\muisampleapp</li><li>\winui\pictures\acquisitionplugin</li><li>\winui\pictures\pictureacquisition</li><li>\winui\pictures\pictureacquisitionplugin</li><li>\winui\shell\columnprovider\</li><li>\winui\shell\shelliconoverlay\</li><li>\winui\sideshow\pictures\</li><li>\winui\sideshow\tasks\</li><li>\winui\tsfapp\</li><li>\winui\tsfcompart\ </li></ul></div></div>
+    </div>
+    <div>
+      <h4>5.5.5 
+        Some Netds/Peer To Peer Samples Need To Be Run From A Non-Elevated Window</h4>
+      <div class="h4content">
+        The following samples cannot be run from an elevated window:
+        <ul><li>Contacts</li><li>Invitation</li><li>People Near Me </li></ul><p>
+            To work around this issue, run these applications from a non-elevated window.</p></div>
+    </div>
+    <div>
+      <h4>5.5.6 
+        Need to Change Visual Studio 2005 Project Files</h4>
+      <div class="h4content">
+        When building in Visual Studio 2005, the project files for the following .NET Framework
+        3.0 samples only support building for Win32 | Debug only after you actively select
+        that configuration. The other configurations do not correctly build.
+        <ul><li>BEREncoding</li><li>Dsml_BatchRequest</li><li>Dsml_Exceptions</li><li>Dsml_PagedSearch</li><li>Dsml_ReadRootDSE</li><li>Dsml_SendRequest</li><li>Ldap_AsyncSend</li><li>Ldap_Exceptions</li><li>Ldap_PagedSearch</li><li>Ldap_PrintDomain</li><li>Ldap_ReadRootDSE</li><li>Ldap_Referral</li><li>Ldap_SendRequest </li></ul></div>
+    </div>
+    <div>
+      <h4>5.5.7 
+        The SchemaReader Sample Requires Windows Media Player 11</h4>
+      <div class="h4content">
+        The Windows Media Player SchemaReader sample requires Windows Media Player 11 to
+        be installed.</div>
+    </div>
+    <div>
+      <h4>5.5.8 
+        MMC 3.0 Samples Require that MMC 3.0 is Installed</h4>
+      <div class="h4content">
+        When the Windows SDK is installed on an x86 Windows Server 2003 SP1 machine, MMC
+        3.0 samples do not compile. To work around this issue, install MMC 3.0 components.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.9 
+        TabletPCSetupSample fails to build using MSBuild (msbuild.exe)</h4>
+      <div class="h4content">
+       MS build does not support setup projects. Visual Studio is required to build TabletPCSetupSample.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.10 
+        The Security Certificate Services Ocspsample Does Not Build On or For Windows
+        Vista</h4>
+      <div class="h4content">
+        There is no workaround for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.11 
+        The Following Windows Media 9 Samples Require Additional Steps to Build</h4>
+      <div class="h4content">
+        The following samples require additional steps to build:
+        <ul><li>\Samples\Multimedia\WindowsMediaServices9\Logging</li><li>\Samples\Multimedia\WindowsMediaServices9\CacheProxy\csharp </li></ul><p>
+            To build the Logging and CacheProxy samples:</p><ol><li>Load each of the samples' .sln file into Visual Studio 2005 and allow it to upgrade
+                the project.</li><li>Add a reference to microsoft.windowsmediaservices.dll by going to Project | Add
+                Reference... | Browse and then browse to the SDK's include directory and select
+                microsoft.windowsmediaservices.dll and click OK.</li><li>Build the solution. </li></ol></div>
+    </div>
+    <div>
+      <h4>5.5.12 
+        The Following TAPI Samples Depend Upon the Directshow Baseclasses</h4>
+      <div class="h4content">
+        The following TAPI samples depend upon the DirectShow BaseClasses (found in the
+        SDK Sample directory). If the sample directory is not installed to the default location,
+        the makefile for the following samples will need to be adjusted to refer to the
+        new location:
+        <ul><li>\netds\tapi\tapi3\cpp\pluggable</li><li>\netds\tapi\tapi3\cpp\tapirecv</li><li>\netds\tapi\tapi3\cpp\tapisend </li></ul></div>
+    </div>
+    <div>
+      <h4>5.5.13 
+        The 3d9exsample Sample Requires DirectX SDK to Build</h4>
+      <div class="h4content">
+        The sample multimedia\direct3d\d3d9exsample requires the <a href="http://go.microsoft.com/fwlink/?linkid=58369&amp;clcid=0x409">DirectX SDK</a> be installed
+        and the INCLUDE and LIB environment variables updated to build. The DirectX SDK
+        include directory should be appended to the INCLUDE environment variable, from within
+        a SDK command prompt. Additionally the DirectX SDK library directory also must be
+        appended to the LIB environment variable, from within a SDK command prompt. This
+        will allow the sample to be built using the supplied makefile.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.14 
+        Samples Needing Adminstrative Privilege to Build</h4>
+      <div class="h4content">
+        The following samples need administrative privilege to build on Windows Vista:
+        <ul><li>multimedia\windowsmediaservices9\authentication</li><li>multimedia\windowsmediaservices9\authorization</li><li>multimedia\windowsmediaservices9\eventnotification</li><li>multimedia\windowsmediaservices9\cacheproxy\cplusplus</li><li>multimedia\windowsmediaservices9\datasource</li><li>multimedia\windowsmediaservices9\playlist</li><li>web\iis\components\cpp\intermediate</li><li>winbase\rdc </li></ul></div>
+    </div>
+    <div>
+      <h4>5.5.15 
+        The Windows Data Access Components documentation describes some samples that are not included in this release of the Windows SDK.</h4>
+      <div class="h4content">
+       There is no work around for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.16 
+        Release configuration of the vsssampleprovider cannot be built until the Debug configuration is built.</h4>
+      <div class="h4content">
+        <p>For the sample located in <code>Samples\winbase\vss\vsssampleprovider</code> the Release configuration 
+        fails to build the EventLogMsg.h file which is required for compilation to succeed. On the other 
+        hand this file is built by the Debug configuration.
+        </p>
+        <p>To work around this issue, first build the debug configuration before attempting to 
+        build the release configuration. This creates the EventLogsMsg.h file which can be subsequently
+        be used by the release configuration</p>
+      </div>
+    </div>
+    <div>
+      <h4>5.5.17 
+        The Win32HostingWPFPage sample located in Samples\WPFSamples\MigrationInterop\Win32HostingWPFPage fails to build</h4>
+      <div class="h4content">
+        The Win32HostingWPFPage sample fails to build using msbuild in the SDK build environment. 
+        There is no workaround for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.18 
+        The Quickstart4 sample located in <code>Samples\wpfsamples\Intro\QuickStart4\CSharp\</code> fails to build</h4>
+      <div class="h4content">
+        The Quickstart4 sample fails to build using msbuild in the SDK build environment. 
+        There is no workaround for this issue.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.19 
+        The sample <code>\wpfsamples\GlobalizationLocalization\GlobalizationHomepage\MicrosoftSaudiArabiaHomepage.csproj</code> fails to build</h4>
+      <div class="h4content">
+        The sample in <code>Samples\wpfsamples\GlobalizationLocalization\GlobalizationHomepage\</code> can be ignored. The 
+        working version of the sample can be found in the 
+        <code>Samples\wpfsamples\GlobalizationLocalization\GlobalizationHomepage\XAML\</code> folder.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.20 
+        Capicom samples fail to build</h4>
+      <div class="h4content">
+        The following samples fail to build:
+        <ul><li>Samples\Security\capicom\c_sharp\chainsh</li><li>Samples\Security\capicom\c_sharp\storesh</li><li>Samples\Security\capicom\c_sharp\xmldsig</li><li>Samples\Security\capicom\vbs\Cversion.vbs</li></ul>
+        These samples require capicom.dll (located in the Bin directory) to be registered. This can be done implicitly by
+        running SignTool (signtool.exe, located in the Bin directory) or explicitly using regsvr32.exe.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.21 
+        Some x509 Samples can not be found</h4>
+      <div class="h4content">
+        Some x509 sample are installed under <code>Security\X509 Certificate Enrollment</code>.
+    </div>
+    </div>
+    <div>
+      <h4>5.5.22 
+        Windows Media Player online store plug-in wizard can't be found</h4>
+      <div class="h4content">
+        <p>Windows Media Player online store plug-in wizard must be installed manually.</p>
+        <p>The Visual Studio Registration utility does not install the Windows Media Player 
+        online store plug-in wizard as stated in the Windows Media Player SDK documentation.</p>
+        <p>For instructions on installing the plug-in wizard manually, see Readme for Windows 
+        Media Player 11 SDK in the MSDN Library.</p>
+      </div>
+    </div>
+    <div>
+      <h4>5.5.23 
+        Tablet PC RecoDLL sample will not self register</h4>
+      <div class="h4content">
+        <p>The Tablet PC RecoDLL sample contains an outdated resource file, <code>recodll.rc</code>. 
+        Consequently, although the sample DLL builds, it cannot self register. 
+        A fix is planned for a later release. 
+        </p>
+        <p>To use the sample properly, download the 
+        <a href="http://go.microsoft.com/fwlink/?LinkId=75139">Updated recodll.c Source File for Tablet PC RecoDLL Sample</a> from the MSDN Download and Code Center.
+        Save the file to your computer, and then double click the application to start the installation. 
+        Save recodll.rc and RecoDll.vcproj to the Tablet PC RecoDLL sample source folder, overwriting the originals. 
+        The default destination is <code>%destination drive%:\Program Files\Microsoft SDKs\Windows\v6.0\Samples\TabletPC\RecoDLL\CPP.</code></p>
+      </div>
+    </div>
+    <div>
+      <h4>5.5.24 <code>Samples\SysMgmt\WMI\VC\Decoupled</code> will not build using Visual Studio</h4>
+      <div class="h4content">
+        To build <code>Samples\SysMgmt\WMI\VC\Decoupled</code> using Visual Studio:
+        <ol><li>Delete the contents of <code>Samples\SysMgmt\WMI\VC\Decoupled</code></li><li>Move the folders:
+        <ul><li><code>Samples\SysMgmt\WMI\VC\Event_Consumer</code></li><li><code>Samples\SysMgmt\WMI\VC\Event_Provider</code></li><li><code>Samples\SysMgmt\WMI\VC\Instance_Provider</code></li></ul>
+        to <code>Samples\SysMgmt\WMI\VC\Decoupled</code>.</li><li>Build and Run each of these samples under <code>Samples\SysMgmt\WMI\VC\Decoupled</code> 
+        individually as per directives given in the help docs.</li></ol></div>
+    </div>
+    <div>
+      <h4>5.5.25 NAP sample code does not run under Vista
+        </h4>
+      <div class="h4content">
+        The NAP Sample code needs changes to work with Vista RTM.  It will build, but will not work 
+        until the following changes are made:
+        
+        <p><b>Change 1:</b><br />
+        File: <code>\NetDS\NAP\SHA\EXE\Callback.cpp</code><br />
+        Line: <code>368</code><br />
+        Current:<br /><code style="margin-left:30px;">value.vendorSpecificVal.vendorId = MicrosoftVendorId;</code><br />
+Should be:<br /><code style="margin-left:30px;">value.vendorSpecificVal.vendorId = QuarSampleSystemHealthId;</code></p><p><b>Change 2:</b><br />
+File: \<code>NetDS\NAP\SHV\SampleShv.cpp</code><br />
+Line: <code>348</code><br />
+Current:<br /><code style="margin-left:30px;">goto Cleanup;</code><br />
+Should be:<br /><code style="margin-left:30px;">[removed]</code><br /><br /></p><p><b>Change 3:</b><br />
+File: <code>\NetDS\NAP\SHV\SampleShv.cpp</code><br />
+Line: <code>514</code><br />
+Current:<br /><code style="margin-left:30px;">(pAttrValue-&gt;vendorSpecificVal.vendorId == MicrosoftVendorId) &amp;&amp;</code><br />
+Should be:<br /><code style="margin-left:30px;">(pAttrValue-&gt;vendorSpecificVal.vendorId == QuarSampleSystemHealthId) &amp;&amp;</code><br /><br /></p><p><b>Change 4:</b><br />
+File: <code>\NetDS\NAP\SHV\SampleShv.cpp</code><br />
+Line: <code>524</code><br />
+Current:<br /><code style="margin-left:30px;">(pAttrValue-&gt;vendorSpecificVal.vendorId == MicrosoftVendorId) &amp;&amp;</code><br />
+Should be:<br /><code style="margin-left:30px;">(pAttrValue-&gt;vendorSpecificVal.vendorId == QuarSampleSystemHealthId) &amp;&amp;</code><br /><br /></p></div>
+    </div>
+    <div>
+      <h4>5.5.26 Schema files relating to Windows PowerShell samples are missing</h4>
+      <div class="h4content">
+        <p>The schema files for the PowerShell samples are located in <code>SysMgmt\WindowsPowerShell\Schemas</code>.
+       </p>
+      </div>
+    </div>
+    <div>
+      <h4>5.5.27 Undecoded WCF traces appear on Windows Vista </h4>
+      <div class="h4content">
+        <p>On Windows Vista, some ETW providers use manifests instead of MOF registrations.
+        For such providers without the trace schema in the WMI catalog, the current 
+        version of SvcTraceViewer.exe cannot decode the trace output.</p>
+        <p>To decode Windows Vista-specific binary traces with no CIM schema, 
+        use the command-line tool TraceRpt.exe, which ships with Windows 
+        Vista.</p>
+      </div>
+    </div>
+    <hr />
+    <a id="Windows SDK Product Support" />
+    <h2>
+        6. Windows SDK Product Support</h2>
+    <div class="h2content">
+      <p>
+        The Windows SDK is provided "as-is" and is not supported by Microsoft. 
+        For technical support, there are a number of options:</p>
+      <div>
+        <h3>6.1 Professional Support for Developers</h3>
+        <div class="h3content">
+          <p>Microsoft Professional Support for Developers provides incident-based access 
+            to Microsoft support professionals and rich information services to help developers 
+            to create and enhance their software solutions with Microsoft products and technologies.</p>
+          <p>For more information about Professional Support for Developers, or to purchase 
+            Professional Support incidents, please contact a Customer Representative at 1-800-936-3500. To access 
+            Professional Support for Developers, visit the 
+            <a href="http://msdn.microsoft.com/default.asp">MSDN web site</a>. 
+            If you have already purchased support incidents, and would like to speak directly 
+            with a Microsoft support professional, call 1-800-936-5800. 
+            </p>
+        </div>
+      </div>
+      <div>
+        <h3>6.2 MSDN Online </h3>
+        <div class="h3content">
+          <p>
+            <a href="http://msdn.microsoft.com/">MSDN online support</a> allows access to 
+            Developer Support search, support incident submission, technical and product information, 
+            support highlights, service packs, downloads, webcasts, and MSDN Online's member communities.
+            </p>
+        </div>
+      </div>
+      <div>
+        <h3>6.3 Public Newsgroups, Forums and Blogs</h3>
+        <div class="h3content">
+          <p>Public newsgroups and forums are available for peer-to-peer support. The 
+            <a href="http://forums.microsoft.com/msdn/showforum.aspx?forumid=121">Windows SDK Forum</a> deals
+            with topics related specifically to the Windows SDK. The 
+            <a href="http://go.microsoft.com/fwlink/?LinkID=44328">Windows Vista Newsgroups</a> page contains an updated list of
+            related newsgroups and forums.</p>
+          <p>The Windows SDK team also maintains the <a href="http://blogs.msdn.com/windowssdk/">Windows SDK Blog</a> which contains 
+            late-breaking and forward-looking news.</p>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <a id="Feedback" />
+    <h2>
+        7. Feedback</h2>
+    <div class="h2content">
+        Your feedback is important to us. Your participation and feedback through the <a href="http://go.microsoft.com/fwlink/?LinkID=44328">Windows Vista Newsgroups</a>
+        is appreciated.</div>
+    <div class="h2content">
+      <p>
+            Copyright © 2006 Microsoft Corporation. All rights reserved. <a href="http://www.microsoft.com/info/copyright.htm" target="new">Legal Notices</a>.</p>
+    </div>
+  </body>
+</html>

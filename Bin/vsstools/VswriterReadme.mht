@@ -1,0 +1,2834 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01C6E2ED.9CB34A40"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_01C6E2ED.9CB34A40
+Content-Location: file:///C:/2A821E05/VswriterReadme.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"VswriterReadme_files/filelist.xml">
+<title>vswriter Readme</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Dinesh Haridas</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1358</o:TotalTime>
+  <o:Created>2006-09-28T18:02:00Z</o:Created>
+  <o:LastSaved>2006-09-28T18:02:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>3307</o:Words>
+  <o:Characters>19912</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>524</o:Lines>
+  <o:Paragraphs>279</o:Paragraphs>
+  <o:CharactersWithSpaces>22940</o:CharactersWithSpaces>
+  <o:Version>11.8036</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520078593 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+p.legalese, li.legalese, div.legalese
+	{mso-style-name:legalese;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("VswriterReadme_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("VswriterReadme_files/header.htm")=
+ fcs;
+	mso-endnote-separator:url("VswriterReadme_files/header.htm") es;
+	mso-endnote-continuation-separator:url("VswriterReadme_files/header.htm") =
+ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-even-footer:url("VswriterReadme_files/header.htm") ef1;
+	mso-footer:url("VswriterReadme_files/header.htm") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:515190908;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1051977586 -1102792908 67698691 67698693 67698689 6=
+7698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-start-at:8;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:Symbol;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1
+	{mso-list-id:1277836338;
+	mso-list-template-ids:-1806522756;}
+@list l1:level1
+	{mso-level-text:"%1\.0";
+	mso-level-tab-stop:60.75pt;
+	mso-level-number-position:left;
+	margin-left:60.75pt;
+	text-indent:-24.75pt;}
+@list l1:level2
+	{mso-level-text:"%1\.%2";
+	mso-level-tab-stop:96.75pt;
+	mso-level-number-position:left;
+	margin-left:96.75pt;
+	text-indent:-24.75pt;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.75in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.75in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	margin-left:4.0in;
+	text-indent:-1.0in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	margin-left:4.5in;
+	text-indent:-1.0in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:5.25in;
+	mso-level-number-position:left;
+	margin-left:5.25in;
+	text-indent:-1.25in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:6.0in;
+	mso-level-number-position:left;
+	margin-left:6.0in;
+	text-indent:-1.5in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b style=3D=
+'mso-bidi-font-weight:
+normal'><span style=3D'font-size:19.0pt;mso-bidi-font-size:12.0pt'>Using Th=
+e VSS
+Test Writer<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b style=3D=
+'mso-bidi-font-weight:
+normal'><span style=3D'font-size:19.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3Dlegalese style=3D'text-align:justify;text-indent:.5in'><b
+style=3D'mso-bidi-font-weight:normal'>Abstract<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>One of the test utilities p=
+rovided
+with the VSS SDK is the test writer.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>This writer can be setup to perform almost all of the actions that a
+field writer may perform, and the writer also performs extensive checks to =
+ensure
+that the requestor has dealt with it correctly.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This document gives a brief overvi=
+ew of
+what the test writer does and how to set it up.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'>Note<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><em><span style=3D'font-sty=
+le:normal'><o:p>&nbsp;</o:p></span></em></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><em><span style=3D'font-sty=
+le:normal'>This
+document is from the VSS SDK for Windows Vista &reg;.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Information in this document is su=
+bject
+to change in future versions of the VSS SDK.</span><o:p></o:p></em></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:19.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></spa=
+n></b></p>
+
+<span style=3D'font-size:12.0pt;font-family:"Times New Roman";mso-fareast-f=
+ont-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=3Dall style=3D'page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>1.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>Overview of Test Writer<o:p></o:p><=
+/span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The Test Writer is a utilit=
+y that
+is provided with the VSS SDK as a means of testing requestor applications.<=
+span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Each instance of the writer is
+initialized with an XML file that describes exactly what components the wri=
+ter
+will report on, and how the writer behaves.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The writer can be configured to re=
+port
+on various types of scenarios, including more complicated scenarios using t=
+he
+incremental/differential interfaces.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The writer will perform checks at various points during the process =
+to
+ensure that the requestor is behaving in a proper manner.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>After the restore is completed, the
+writer will check that all necessary files have been restored without corru=
+ption.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The writer can also be configured =
+to perform
+other operations such as failing specific events.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The writer is started from =
+the
+command line as follow:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+>v<b
+style=3D'mso-bidi-font-weight:normal'>swriter.exe &lt;config-file&gt;<o:p><=
+/o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Where &lt;config-file&gt; i=
+s the
+path to an XML file describing the behavior of this writer.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Multiple instances of the writer c=
+an be
+run at the same time.<span style=3D'mso-spacerun:yes'>&nbsp; </span>However=
+, each
+instance of the writer will report the same writer classid (though a differ=
+ent
+instance id), so logical paths and component names must be unique across all
+simultaneously-running instances of the writer.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Exiting the writer is accomplished=
+ by
+hitting Ctrl+C at the command prompt.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>A sample <b style=3D'mso-bi=
+di-font-weight:
+normal'>&lt;config-file&gt;</b> is provided within this VSS SDK, named <b
+style=3D'mso-bidi-font-weight:normal'>vswriter_config.xml </b>. It can be u=
+sed as
+a simple test example, and more elaborate versions can be derived by buildi=
+ng
+on it.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Although the writer verifies
+requestor behavior, it does not verify that the configuration file always
+maintains the documented semantics for a writer.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>There are many operations that a
+well-behaved writer should not do (such as report the same file in multiple
+components), and it is up to the author of the XML configuration file to
+maintain these semantics.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>In order so that the writer=
+ can properly
+check that the requestor has honored exclude-file specifications, all files
+that were backed up should be deleted from the original volume before
+attempting to restore them.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>It&#8217;s thus recommended that a template of each writer scenario =
+be
+stored, so the scenario can be easily recreated.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>2.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Setting Up a Basic Con=
+figuration
+File<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>XML files are arranged as a
+hierarchy of <i style=3D'mso-bidi-font-style:normal'>elements</i> and <i
+style=3D'mso-bidi-font-style:normal'>element lists</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>An XML document has a root element=
+ that
+serves as the base of the hierarchy.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Each element may contain some number of sub-elements (sometimes
+optional, sometimes mandatory) of given types.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Elements may also contain <i
+style=3D'mso-bidi-font-style:normal'>attributes</i> that describe general
+information about that element;<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>once again some attributes are mandatory, some are optional, and some
+have default values.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The root element in the
+configuration file is named <b style=3D'mso-bidi-font-weight:normal'>TestWr=
+iter</b>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The first step in creating a
+configuration file is to specify this root element.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This specification looks as follow=
+s:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Since all other elements li=
+ve under
+the <b style=3D'mso-bidi-font-weight:normal'>TestWriter</b> element, the re=
+st of
+the file will exist between these two tags.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>One of the attributes assoc=
+iated
+with <b style=3D'mso-bidi-font-weight:normal'>TestWriter</b> is the usage
+attribute.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This controls the =
+usage
+type reported through <i style=3D'mso-bidi-font-style:normal'>IVssExamineWr=
+iterMetadata::GetIdentity.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span></i>One of the possible values for=
+ this
+attribute is <b style=3D'mso-bidi-font-weight:normal'>USER_DATA</b>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>To specify this we change the open=
+ing
+tag from <b style=3D'mso-bidi-font-weight:normal'>&lt;TestWriter&gt; </b>to=
+ <b
+style=3D'mso-bidi-font-weight:normal'>&lt;TestWriter usage=3D&#8220;USER_DA=
+TA&#8221;&gt;.<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The first child element of =
+<b
+style=3D'mso-bidi-font-weight:normal'>TestWriter</b> must always be a <b
+style=3D'mso-bidi-font-weight:normal'>RestoreMethod </b>element.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The <b style=3D'mso-bidi-font-weig=
+ht:normal'>RestoreMethod
+</b>element specifies whether the writer requires restore events, whether a
+reboot is required following restore, and what the restore method is;<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>it also specifies alternate-locati=
+on
+mappings, as will be explained later.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>For our example, we will specify a restore method of <b
+style=3D'mso-bidi-font-weight:normal'>RESTORE_IF_CAN_BE_REPLACED</b>, that =
+the
+writer always needs restore involvement, and that no reboot is required;<sp=
+an
+style=3D'mso-spacerun:yes'>&nbsp; </span>no alternation-location mapping wi=
+ll be
+given.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The document now looks=
+ as
+follows:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TestWriter
+usage=3D&#8220;USER_DATA&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;RestoreMethod
+method=3D&#8220;RESTORE_IF_CAN_REPLACE&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>writerRestore=3D&#8220;always&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>rebootRequired=3D&#8220;no&#8221; /&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Here the <b style=3D'mso-bi=
+di-font-weight:
+normal'>method </b>attribute indicates the restore method, the <b
+style=3D'mso-bidi-font-weight:normal'>writerRestore </b>attribute specifies
+whether the writer needs restore involvement if running, and the <b
+style=3D'mso-bidi-font-weight:normal'>rebootRequired </b>attribute specifies
+whether a reboot is necessary after restore of this writer.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Finally, we need to add a c=
+omponent
+with some files.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The <b
+style=3D'mso-bidi-font-weight:normal'>Component</b> element causes the writ=
+er to
+add a component to its metadata.<span style=3D'mso-spacerun:yes'>&nbsp; </s=
+pan>A <b
+style=3D'mso-bidi-font-weight:normal'>Component</b> element contains attrib=
+utes
+to describe the component and subelements to describe the content of the
+component.<span style=3D'mso-spacerun:yes'>&nbsp; </span>After adding a fil=
+egroup
+component named &#8220;WriterComponent&#8221;, the file looks as follows:</=
+p>
+
+<span style=3D'font-size:12.0pt;font-family:"Times New Roman";mso-fareast-f=
+ont-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-character:lin=
+e-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TestWriter
+usage=3D&#8220;USER_DATA&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:2'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;RestoreMethod method=3D&#8220;=
+RESTORE_IF_CAN_REPLACE&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>writerRestore=3D&#8220;=
+always&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rebootRequired=3D&#8220;no&#8221;
+/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span style=3D'mso-tab-count:2'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>&lt;Component componentType=
+=3D&#8220;filegroup&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span>logicalPath=3D&#8220;&#8221;<o:p></o:p></span></b>=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</span>componentName=3D&#8220;WriterComponent&#8221;<o:p></o:p></span=
+></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span>selectable=3D&#8220;yes&#8221;&gt;<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;ComponentFile path=
+=3D&#8220;c:\files&#8221;
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8220;*.txt&#8221; <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>recusive=3D&#822=
+0;no&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/Component&gt;<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>We specified four attribute=
+s on this<b
+style=3D'mso-bidi-font-weight:normal'> Component </b>element:<span
+style=3D'mso-spacerun:yes'>&nbsp; </span><b style=3D'mso-bidi-font-weight:n=
+ormal'>componentType</b>
+to indicate whether this is a filegroup or a database, <b style=3D'mso-bidi=
+-font-weight:
+normal'>logicalPath</b> for the component logical path, <b style=3D'mso-bid=
+i-font-weight:
+normal'>componentName</b> for the name of the component, and <b
+style=3D'mso-bidi-font-weight:normal'>selectable</b> to indicate
+selectable-for-backup status. <span style=3D'mso-spacerun:yes'>&nbsp;</span=
+>We
+also specified a subelement named <b style=3D'mso-bidi-font-weight:normal'>=
+ComponentFile</b>
+to add a file specification to this component;<span
+style=3D'mso-spacerun:yes'>&nbsp; </span><b style=3D'mso-bidi-font-weight:n=
+ormal'>ComponentFile</b>
+contains no subelements, only attributes.<span style=3D'mso-spacerun:yes'>&=
+nbsp;
+</span>An arbitrary number of <b style=3D'mso-bidi-font-weight:normal'>Comp=
+onentFile</b>
+elements can be specified for each component.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>3.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Useful Writer Options<=
+o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The <b style=3D'mso-bidi-fo=
+nt-weight:
+normal'>TestWriter</b> element contains attributes that determine various
+behaviors of the writer.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Some=
+ of
+the behaviors that can be altered are the following:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'>Verbosit=
+y<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'font-size:11=
+.0pt;
+mso-bidi-font-size:12.0pt'>The writer prints status to the console as it
+receives events and processes them.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The level of verbosity displayed is controlled by the <b
+style=3D'mso-bidi-font-weight:normal'>verbosity </b>attribute.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>There are three verbosity levels to
+choose from:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in;text-indent:-.25in;mso-lis=
+t:l0 level1 lfo2;
+tab-stops:list 1.25in'><![if !supportLists]><span style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>low<o:p></o:p></span><=
+/b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in'><span style=3D'font-size:=
+11.0pt;
+mso-bidi-font-size:12.0pt'>only failures in the writer or incorrect behavior
+from the requestor is printed.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in;text-indent:-.25in;mso-lis=
+t:l0 level1 lfo2;
+tab-stops:list 1.25in'><![if !supportLists]><span style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>medium<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in'><span style=3D'font-size:=
+11.0pt;
+mso-bidi-font-size:12.0pt'>Everything at the low verbosity level is printed=
+ in
+addition to extra status information such as when events are received.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This is the default level.<o:p></o=
+:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in;text-indent:-.25in;mso-lis=
+t:l0 level1 lfo2;
+tab-stops:list 1.25in'><![if !supportLists]><span style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol'><span style=3D'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span></span></span><![endif]><b style=3D'mso-bidi-font-weight:normal'><sp=
+an
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>high<o:p></o:p></span>=
+</b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.25in'><span style=3D'font-size:=
+11.0pt;
+mso-bidi-font-size:12.0pt'>detailed status about the operation of the write=
+r is
+reported<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'>File Del=
+etion<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>In order to perform extra
+verification on a requestor, the <b style=3D'mso-bidi-font-weight:normal'>d=
+eleteFiles</b>
+attribute of <b style=3D'mso-bidi-font-weight:normal'>TestWriter</b> can be=
+ set
+to &#8220;yes&#8221;.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This wi=
+ll
+cause the writer to delete all of its file immediately after the snapshot is
+taken.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The requestor <i
+style=3D'mso-bidi-font-style:normal'>must</i> then pick the files up off of=
+ the
+snapshot volume, as they no longer exist on the original volume.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In the case of spit writers, the f=
+iles
+are first deleted from the original location after the spit but before the
+snapshot is taken.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The files =
+are
+then deleted from the spit directory after the snapshot is taken.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The result is that the files do not
+exist on the original volume, and on the snapshot volume only exist in the =
+spit
+directory.<span style=3D'mso-spacerun:yes'>&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>If using partial files or differenc=
+ed
+files, deletion of those files is controlled by the <b style=3D'mso-bidi-fo=
+nt-weight:
+normal'>deletePartialFiles</b> and the <b style=3D'mso-bidi-font-weight:nor=
+mal'>deleteDifferencedFiles</b>
+attributes.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'>Restore =
+Checks<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The writer can perform exte=
+nsive
+checking of files after they have been restored.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If the <b style=3D'mso-bidi-font-w=
+eight:
+normal'>checkIncludes</b> attribute is set to <b style=3D'mso-bidi-font-wei=
+ght:
+normal'>&#8220;yes&#8221;</b>, the writer will check that every file that h=
+as
+been backed up has been restored to an appropriate location, and that the f=
+ile
+has not been corrupted;<span style=3D'mso-spacerun:yes'>&nbsp; </span>parti=
+al
+files and differenced files are also correctly handled.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If the <b style=3D'mso-bidi-font-w=
+eight:
+normal'>checkExcludes</b> attribute is set to <b style=3D'mso-bidi-font-wei=
+ght:
+normal'>&#8220;yes&#8221;</b>, the writer will check that files matching a =
+file
+specification in the exclude list are <i style=3D'mso-bidi-font-style:norma=
+l'>not</i>
+restored.<span style=3D'mso-spacerun:yes'>&nbsp; </span>For this to function
+correctly, the restore directories must be emptied prior to restore.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>4.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Alternate Location Map=
+pings<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>A writer can report
+alternate-location mappings to the requestor through the <i style=3D'mso-bi=
+di-font-style:
+normal'>IVssExamineWriterMetadata::GetAlternateLocationMapping</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These mappings indicate a location=
+ to
+restore to if the restore method is <b style=3D'mso-bidi-font-weight:normal=
+'>VSS_WRE_RESTORE_TO_ALTERNATE_LOCATION</b>
+or if normal restore of a component fails.<span style=3D'mso-spacerun:yes'>=
+&nbsp;
+</span>Alternate-location mappings are added to the test writer by creating=
+ <b
+style=3D'mso-bidi-font-weight:normal'>AlernateLocationMapping</b> subelemen=
+ts of
+the <b style=3D'mso-bidi-font-weight:normal'>RestoreMethod</b> element.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Using the above example of a
+configuration file, this might give us the following:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TestWriter
+usage=3D&#8220;USER_DATA&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:2'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;RestoreMethod method=3D&#8220;=
+RESTORE_IF_CAN_REPLACE&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>writerRestore=3D&#8220;always&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>rebootRequired=3D&#8220;no&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>&lt;AlternateLocationMapping path=3D&#8220;c:\files&#8221;<o:p></o:p=
+></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fi=
+lespec=3D&#8220;*.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>recursive=3D&#8220;no&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;
+</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span=
+>alternatePath=3D&#8220;c:\altfiles&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/RestoreMethod&gt;<o:p></o:p><=
+/span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span style=3D'mso-tab-count:2'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>&lt;Component componentType=
+=3D&#8220;filegroup&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>logicalPath=3D&#8220;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>componentName=3D&#8220;WriterComponent&#8221;<o:p></o:p></span></b><=
+/p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>selectable=3D&#8220;yes&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;ComponentFile path=
+=3D&#8220;c:\files&#8221;
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>files=
+pec=3D&#8220;*.txt&#8221;
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>recusive=3D&#8220;no&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/Component&gt;<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>In this case the requestor =
+should
+first attempt to restore all of the files matching c:\files\*.txt to the
+c:\files directory.<span style=3D'mso-spacerun:yes'>&nbsp; </span>If one of=
+ these
+files cannot be replaced, the requestor should restore all the files to
+c:\altfiles instead.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The use =
+of
+this alternate-location mapping should be recorded using <i style=3D'mso-bi=
+di-font-style:
+normal'>IVssBackupComponents::AddAlternativeLocationMapping</i>;<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>if the writer is setup to check th=
+at
+files are restored, then it will also check that <i style=3D'mso-bidi-font-=
+style:
+normal'>AddAlternativeLocationMapping</i> has been called in this case.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>5.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Exclude Files<o:p></o:=
+p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Every writer can specify a =
+list of
+file specification to exclude from backup, and the test writer is no
+exception.<span style=3D'mso-spacerun:yes'>&nbsp; </span>One or more <b
+style=3D'mso-bidi-font-weight:normal'>ExcludeFile</b> subelements are added=
+ to
+the <b style=3D'mso-bidi-font-weight:normal'>TestWriter </b>root<b
+style=3D'mso-bidi-font-weight:normal'> </b>element to specify these
+excludes.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Adding this to the
+continuing example gives us:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TestWriter
+usage=3D&#8220;USER_DATA&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:2'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;RestoreMethod method=3D&#8220;=
+RESTORE_IF_CAN_REPLACE&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>writerRestore=3D&#8220;always&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>rebootRequired=3D&#8220;no&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>&lt;AlternateLocationMapping path=3D&#8220;c:\files&#8221;<o:p></o:p=
+></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>filespec=3D&#8220;*.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>recursive=3D&#8220;no&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;
+</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span=
+>alternatePath=3D&#8220;c:\altfiles&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/RestoreMethod&gt;<o:p></o:p><=
+/span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;ExcludeFile path=3D&#8220;c:\f=
+iles&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span>filespec=3D&#8220;temp*.*&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span>recursive=3D&#8220;no&#8221;
+/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span><span style=3D'mso-tab-count:2'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>&lt;Component componentType=
+=3D&#8220;filegroup&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>logicalPath=3D&#8220;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>componentName=3D&#8220;WriterComponent&#8221;<o:p></o:p></span></b><=
+/p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>selectable=3D&#8220;yes&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;ComponentFile path=
+=3D&#8220;c:\files&#8221;
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8220;*.txt&#8221; <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>recusive=3D&#8220;no&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>&lt;/Component&gt;<o:p></o:p></span=
+></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TestWriter&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The requestor should now ba=
+ckup all
+files matching c:\files\*.txt except for those files that match
+c:\files\temp*.*.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>6.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Spit Writers<o:p></o:p=
+></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Many writers spit files to =
+an
+alternate location at backup time, and instruct the requestor to pick those
+files up from this alternate location.<span style=3D'mso-spacerun:yes'>&nbs=
+p;
+</span>Restore should still happen to the active location of the file.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Writers indicate the presence of t=
+his
+alternate location through <i style=3D'mso-bidi-font-style:normal'>IVssWMFi=
+ledesc::GetAlternateLocation</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The test writer can be set up to a=
+ct as
+a spit writer for specific file specification.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This is toggled by adding an <b
+style=3D'mso-bidi-font-weight:normal'>alternatePath</b> attribute to a <b
+style=3D'mso-bidi-font-weight:normal'>ComponentFile</b> element:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan><b
+style=3D'mso-bidi-font-weight:normal'>&lt;ComponentFile path=3D</b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'>&#8220;</span>c:\files&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>filespec=
+=3D</b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'>&#8220;</span>*.txt&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>recursive=
+=3D</b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'>&#8220;</span>no&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>alternateP=
+ath=3D</b><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'>&#8220;</span>c:\files\spit&#8221; /&gt;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The test writer will copy a=
+ll of
+the files matching c:\files\*.txt to c:\files\spit immediately before the
+snapshot is taken, and the requestor must backup the files from that
+location.<span style=3D'mso-spacerun:yes'>&nbsp; </span>If the writer is se=
+tup to
+delete files, then the original files will be deleted before the snapshot is
+taken (so they don&#8217;t appear on the snapshot volume), and the files in
+c:\files\spit will be deleted after the snapshot is taken (so they must be
+backed up off of the snapshot volume.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>7.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Component Dependency<o=
+:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Writers can specify a depen=
+dency
+between a local component and a component existing in another writer.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These dependencies are reported to=
+ the
+requestor using <i style=3D'mso-bidi-font-style:normal'>IVssWMComponent::Ge=
+tDependency</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The test writer can be setup to re=
+port
+these dependencies by adding one or more <b style=3D'mso-bidi-font-weight:n=
+ormal'>Dependency</b>
+subelements to the <b style=3D'mso-bidi-font-weight:normal'>Component </b>e=
+lement.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;text-indent:.5in'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'>&lt;Component componentType=3D&#8220;filegroup&#8221;<o:p></o:p></s=
+pan></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;
+</span>logicalPath=3D&#8220;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span>componentName=3D&#8220;WriterComponent&#8221;<o:p></o:p></span></b><=
+/p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span>selectable=3D&#8220;yes&#8221;&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:1'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;Dependency writerId=3D&#8220;&=
+lt;GUID
+of target writer&gt;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>logicalPath=3D&#8220;ComponentPath&=
+#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>componentName=3D&#8220;Writer2Compo=
+nent&#8221;
+/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;
+</span><span style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>&lt;/Component&gt;<o:p></o:p></=
+span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The dependency is specified=
+ as
+attributes of the <b style=3D'mso-bidi-font-weight:normal'>Dependency </b>e=
+lement.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span><b style=3D'mso-bidi-font-weight:n=
+ormal'>writerId
+</b>is the class id of the writer containing the target of the dependency, =
+<b
+style=3D'mso-bidi-font-weight:normal'>logicalPath</b> is the logical path t=
+o the
+component in that writer, and <b style=3D'mso-bidi-font-weight:normal'>comp=
+onentName</b>
+is the name of the component.<span style=3D'mso-spacerun:yes'>&nbsp; </span=
+>In
+this case, if the requestor is backing up &#8220;WriterComponent&#8221; in =
+the
+current writer, it should also back up the component /ComponentPath\Writer2=
+Component&#8221;
+in the target writer.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The test writer performs no
+checking to ensure dependencies are honored.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>8.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Failing Events<o:p></o=
+:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The test writer can be setu=
+p to
+fail any of the normal events that a writer receives.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These events are as follows:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Identify<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>received as a response to a
+GatherWriterMetadata call.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Fa=
+ilure
+here will </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;text-indent:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>cause the writer to not be reporte=
+d.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PrepareForBackup<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received as a response to the
+requestor calling PrepareForBackup</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PrepareForSnapsot<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received when the requestor ca=
+lls DoSnapshotSet,
+but before the </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;text-indent:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>snapshot is created.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Freeze<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received immediately after
+PrepareForSnapshot, but still before the </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>snapshot is created</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thaw<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received after the snapshot cr=
+eation
+is finished</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PostSnapshot<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received after Thaw completes,=
+ but
+before DoSnapshotSet completes</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Abort<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received <span
+style=3D'mso-spacerun:yes'>&nbsp;</span>if to much time elapses between Fre=
+eze
+and Thaw or if the </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>requestor calls AbortBackup</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>BackupComplete<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span></b>received when the request=
+or
+exits.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Failures here will nev=
+er be
+reported</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PreRestore<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></b>received when the requestor ca=
+ll
+PreRestore</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PostRestore<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Received when the requestor calls
+PostRestore</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>These failures are setup by=
+ adding
+one or more <b style=3D'mso-bidi-font-weight:normal'>FailEvent</b> subeleme=
+nts to
+the <b style=3D'mso-bidi-font-weight:normal'>TestWriter</b> root element.<s=
+pan
+style=3D'mso-spacerun:yes'>&nbsp; </span>There are two classes of failures =
+that
+can be set: retryable and non-retryable.<span style=3D'mso-spacerun:yes'>&n=
+bsp;
+</span>Retryable errors are errors that may go away if the entire backup
+process is retried, while non-retryable errors are unlikely to disappear.<s=
+pan
+style=3D'mso-spacerun:yes'>&nbsp; </span>The failure type for the event is =
+chosen
+based on the <b style=3D'mso-bidi-font-weight:normal'>retryable </b>attribu=
+te.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>A basic non-retryable failure look=
+s as
+follows:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan><b
+style=3D'mso-bidi-font-weight:normal'>&lt;FailEvent
+writerEvent=3D&#8221;Freeze&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>retryable=3D&#8221;no&#8221; /&gt;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>This will cause the writer =
+to fail
+during the <b style=3D'mso-bidi-font-weight:normal'>Freeze </b>event.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>GatherWriterStatus will report the
+writer failure to be <b style=3D'mso-bidi-font-weight:normal'>VSS_E_WRITERE=
+RROR_NONRETRYABLE.</b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>A basic retryable error loo=
+ks as
+follows:</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan><b
+style=3D'mso-bidi-font-weight:normal'>&lt;FailEvent
+writerEvent=3D&#8221;Freeze&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>retryable=3D&#8221;yes&#8221;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:1.5in'><b style=3D'mso-bidi-font-=
+weight:
+normal'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>numFailures=3D&#8221;2&#8221; /&gt;<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>This will cause the writer =
+to fail
+the first two times it receives a <b style=3D'mso-bidi-font-weight:normal'>=
+Freeze</b>
+event.<span style=3D'mso-spacerun:yes'>&nbsp; </span>After the first two ti=
+mes,
+the writer will always succeed.<span style=3D'mso-spacerun:yes'>&nbsp; </sp=
+an>The
+writer failure reported through GatherWriterStatus will be a random retryab=
+le
+error code.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>9.0<span style=3D'font:7.0pt "Times=
+ New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'>Advanced Writer Option=
+s<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The writer supports a numbe=
+r of
+options for more advanced backup restore scenarios.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'>Supported
+Backup Types<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Writers communicate what ba=
+ckup
+types are supported through the requestor&#8217;s calling <i style=3D'mso-b=
+idi-font-style:
+normal'>IVssExamineWriterMetadata::GetBackupSchema</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The <b style=3D'mso-bidi-font-weig=
+ht:normal'>TestWriter</b>
+root element contains attributes for each backup type to indicate support.<=
+span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These attributes are <b
+style=3D'mso-bidi-font-weight:normal'>supportsCopy, supportsDifferential,
+supportsIncremental, </b>and <b style=3D'mso-bidi-font-weight:normal'>suppo=
+rtsLog</b>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These attributes can each be set to
+either <b style=3D'mso-bidi-font-weight:normal'>&#8220;yes&#8221; </b>or <b
+style=3D'mso-bidi-font-weight:normal'>&#8220;no&#8221;</b> to indicate supp=
+ort
+for that backup type.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>If the requestor sets the b=
+ackup
+type to something not supported by the writer, the writer will note this fa=
+ct
+during <b style=3D'mso-bidi-font-weight:normal'>PrepareForBackup</b>, but
+otherwise work correctly.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n></span>File
+Backup Type<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The <i style=3D'mso-bidi-fo=
+nt-style:
+normal'>IWMFiledesc::GetBackupTypeMask</i> function returns a bitmask to th=
+e </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>requestor indicating how a =
+file
+should be backed up.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This will
+indicate whether a file is required or not required during specific types
+(Copy, Differential, etc.) of backup, and also whether a snapshot is requir=
+ed
+during specific types of backup.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The interpretation of this bitmask is explained at greater length in=
+ the
+document <b style=3D'mso-bidi-font-weight:normal'>Backing Up Complex Stores=
+ Using
+VSS Requestors</b>.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>In the test writer, the ele=
+ments of
+this bitmask are controlled using a number of attributes in each <b
+style=3D'mso-bidi-font-weight:normal'>ComponentFile</b> element.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The attributes <b style=3D'mso-bid=
+i-font-weight:
+normal'>fullBackupRequired, diffBackupRequired, incBackupRequired, </b>and<b
+style=3D'mso-bidi-font-weight:normal'> logBackupRequired</b> control when a=
+ file
+needs to be backed up.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The
+attributes <b style=3D'mso-bidi-font-weight:normal'>fullSnapshotRequired,
+diffSnapshotRequired, incSnapshotRequired, </b>and<b style=3D'mso-bidi-font=
+-weight:
+normal'> logSnapshotRequired</b> control when a file needs to be backed up =
+off
+of the snapshot volume.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The d=
+efault
+for all of these values is <b style=3D'mso-bidi-font-weight:normal'>&#8220;=
+yes&#8221;</b>,
+indicating that a file need always be backed up and always off of the snaps=
+hot
+volume.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span></span></b><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:13.0pt;mso-bidi-font-size:12.0pt'>Partial Files<o:p></o:=
+p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b=
+>During
+processing of <b style=3D'mso-bidi-font-weight:normal'>DoSnapshotSet</b> a =
+writer
+has a chance to add partial files to <span style=3D'mso-tab-count:1'>&nbsp;=
+ </span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>each component;<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>these partial files are reported u=
+sing </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><i style=3D'mso-bidi-font-s=
+tyle:normal'>IVssComponent::GetPartialFile</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The test writer can be setup to add
+partial files by specifying <b style=3D'mso-bidi-font-weight:normal'>Partia=
+lFile </b>subelements
+in a <b style=3D'mso-bidi-font-weight:normal'>Component </b>element.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;text-indent:.5in'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;Component
+componentType=3D&#8221;filegroup&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span>logicalPath=3D&#8221;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span>componentName=3D&#8221;WriterComponent&#8221;<o:p></o:p>=
+</span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span>selectable=3D&#8221;yes&#8221;&gt;<o:p></o:p></span></b>=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;ComponentFile
+path=3D&#8221;c:\files&#8221; <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8221;*.txt&#8221; <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>recusive=3D&#8221;no&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;PartialFile
+path=3D&#8221;c:\files&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8221;partial.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>ranges=3D&#8221;0:5,100:20&#8221; /&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;PartialFile
+path=3D&#8221;c:\files2&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8221;partial.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>ranges=3D&#8221;0:5,100:20&#8221; /&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/Component&gt;<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>Only partial files partially
+matching an existing <b style=3D'mso-bidi-font-weight:normal'>ComponentFile=
+</b>
+(as in the first partial file) or new partial files that are on the same vo=
+lume
+as an existing <b style=3D'mso-bidi-font-weight:normal'>ComponentFile</b> (=
+as in
+the second partial file) should be specified this way.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>For this component, the requestor =
+must
+fully backup all files matching c:\files\*.txt except for partial.txt.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The requestor must then backup the
+specified ranges (where a range is an offset followed by a length) for the
+files c:\files\partial.txt and c:\files2\partial.txt.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>If the writer is setup to c=
+heck
+file restores, only the backed up ranges of the partial file will be checke=
+d at
+restore time.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Modifications to
+other portions of the file will go unnoticed.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If the <b style=3D'mso-bidi-font-w=
+eight:
+normal'>deletePartialFiles</b> attribute of <b style=3D'mso-bidi-font-weigh=
+t:
+normal'>TestWriter</b> is set, then the partial files will be deleted off of
+the original volume immediately after the snapshot is created.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.0pt;mso-b=
+idi-font-size:
+12.0pt'>Differenced Files<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b=
+>During
+processing of <b style=3D'mso-bidi-font-weight:normal'>DoSnapshotSet</b> a =
+writer
+has a chance to add differenced </p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'>files to <span style=3D'mso=
+-tab-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n>each
+component;<span style=3D'mso-spacerun:yes'>&nbsp; </span>these differenced =
+files
+are reported using </p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><i style=3D'mso-bidi-font-s=
+tyle:normal'>IVssComponent::GetDifferencedFile</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The test writer can be setup to add
+differenced files by specifying <b style=3D'mso-bidi-font-weight:normal'>Di=
+fferencedFile
+</b>subelements in a <b style=3D'mso-bidi-font-weight:normal'>Component </b=
+>element.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in;text-indent:.5in'><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;Component
+componentType=3D&#8221;filegroup&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;
+</span>logicalPath=3D&#8221;&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span>componentName=3D&#8221;WriterComponent&#8221;<o:p></o:p>=
+</span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span>selectable=3D&#8221;yes&#8221;&gt;<o:p></o:p></span></b>=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&lt;ComponentFile path=
+=3D&#8221;c:\files&#8221;
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>filespec=3D&#8221;*.txt&#8221; <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;
+</span>recusive=3D&#8221;no&#8221;/&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>&lt;DifferencedFile path=3D&#8221;c:\files&#8221;<o:p></o:p></span><=
+/b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>filespec=3D&#8221;*.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:4'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>year=3D&#8221;2003&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>month=3D&#8221;1&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>day=3D&#8221;22&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>hour=3D&#8221;12&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>minute=3D&#8221;44&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>second=3D&#8221;17&#8221; /&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>&lt;DifferencedFile path=3D&#8221;c:\files2&#8221;<o:p></o:p></span>=
+</b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>filespec=3D&#8221;*.txt&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span><span style=3D'mso-tab-count:4'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>year=3D&#8221;2003&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>month=3D&#8221;1&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>day=3D&#8221;22&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>hour=3D&#8221;12&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:3'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>minute=3D&#8221;44&#8221;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>second=3D&#8221;17&#8221; /&gt;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span><span
+style=3D'mso-spacerun:yes'>&nbsp; </span>&lt;/Component&gt;<o:p></o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b=
+>Unlike
+partial files, differenced files should never partially match a </p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'>ComponentFile </b>specification.<span style=3D'mso-spacerun:yes'>&n=
+bsp;
+</span>The file specification in a <b style=3D'mso-bidi-font-weight:normal'=
+>DifferencedFile</b>
+</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>element should either exact=
+ly match
+a <b style=3D'mso-bidi-font-weight:normal'>ComponentFile</b> (as in the fir=
+st
+difference file) or it should be completely disjoint, but be on a volume th=
+at
+is referenced in a <b style=3D'mso-bidi-font-weight:normal'>ComponentFile <=
+/b>(as
+in the second differenced file).<span style=3D'mso-spacerun:yes'>&nbsp; </s=
+pan>The
+date/time given should be relative to the local time zone, though it will be
+converted to GMT before being reported to the requestor.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In the above case, only and all fi=
+les
+matching c:\files\*.txt or c:\files2\*.txt that have been modified since
+1/22/2003:12:44:17 will be backed up.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>If the writer is setup to c=
+heck
+file restores, only the modified files will be checked for restore.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If the <b style=3D'mso-bidi-font-w=
+eight:
+normal'>deleteDifferencedFiles</b> attribute of <b style=3D'mso-bidi-font-w=
+eight:
+normal'>TestWriter</b> is set, then the differenced files will be deleted o=
+ff
+of the original volume immediately after the snapshot is created.</p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-tab=
+-count:
+1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b=
+><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:13.0pt;mso-b=
+idi-font-size:
+12.0pt'>New Targets<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'>Certain writers allow the r=
+equestor
+to inform them that a new location has been </p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'>chosen to restore certain f=
+iles
+to.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The writer indicates that=
+ it
+supports this mode </p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'>as p=
+art of
+the bitmask returned by </p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'><i
+style=3D'mso-bidi-font-style:normal'>IVssExamineWriterMetadata::GetBackupSc=
+hema</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>By default the test writer </p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'>alwa=
+ys
+supports new targets.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This
+capability can be disabled by setting the </p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'><b
+style=3D'mso-bidi-font-weight:normal'>supportsNewTarget</b> attribute in <b
+style=3D'mso-bidi-font-weight:normal'>TestWriter </b>to <b style=3D'mso-bid=
+i-font-weight:
+normal'>&#8220;no&#8221;.<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'><b
+style=3D'mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'>if a=
+ writer
+supports new targets, the requestor can inform the writer of new targets </=
+p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'>by c=
+alling <i
+style=3D'mso-bidi-font-style:normal'>IVssBackupComponents::AddNewTarget</i>=
+.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The writer will then check </p>
+
+<p class=3DMsoNormal style=3D'margin-left:24.75pt;text-indent:11.25pt'>the
+new-target location to verify restore rather than the original location.<sp=
+an
+style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DMsoNormal style=3D'text-indent:.5in'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nb=
+sp;</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:60.75pt;text-indent:-24.75pt;mso-=
+list:
+l1 level1 lfo1;tab-stops:list 60.75pt'><![if !supportLists]><b
+style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:14.0pt;mso-b=
+idi-font-size:
+12.0pt'><span style=3D'mso-list:Ignore'>10.0<span style=3D'font:7.0pt "Time=
+s New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span></b><![endif]><b style=3D'mso-bidi-font-weight:normal'=
+><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>More Information<o:p></o:p></=
+span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></spa=
+n></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'>The test writer supports mo=
+re configuration
+options that are not described here.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The full schema for all of the configuration capabilities of the test
+writer is specified in <b style=3D'mso-bidi-font-weight:normal'>swriter.xml=
+</b>
+in the sources directory.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Thi=
+s file
+contains an XML schema that completely describes all of the elements and
+attributes that make up a configuration file.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Each element and each attribute in=
+ this
+file is commented with a description that documents that element or
+attribute&#8217;s use.</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C6E2ED.9CB34A40
+Content-Location: file:///C:/2A821E05/VswriterReadme_files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link id=3DMain-File rel=3DMain-File href=3D"../VswriterReadme.htm">
+<![if IE]>
+<base href=3D"file:///C:\2A821E05\VswriterReadme_files\header.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"3074"/>
+</xml><![endif]-->
+</head>
+
+<body lang=3DEN-US>
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-continua=
+tion-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal><span style=3D'mso-special-character:footnote-continua=
+tion-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Def1>
+
+<div style=3D'mso-element:frame;mso-element-wrap:around;mso-element-anchor-=
+vertical:
+paragraph;mso-element-anchor-horizontal:margin;mso-element-left:right;
+mso-element-top:.05pt;mso-height-rule:exactly'>
+
+<table cellspacing=3D0 cellpadding=3D0 hspace=3D0 vspace=3D0 align=3Dright>
+ <tr>
+  <td valign=3Dtop align=3Dleft style=3D'padding-top:0in;padding-right:0in;
+  padding-bottom:0in;padding-left:0in'>
+  <p class=3DMsoFooter style=3D'mso-element:frame;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margi=
+n;
+  mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><!-=
+-[if supportFields]><span
+  class=3DMsoPageNumber><span style=3D'mso-element:field-begin'></span>PAGE=
+<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span></span><![endif]--><!--[if suppo=
+rtFields]><span
+  class=3DMsoPageNumber><span style=3D'mso-element:field-end'></span></span=
+><![endif]--><span
+  class=3DMsoPageNumber><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoFooter style=3D'margin-right:.25in'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Df1>
+
+<div style=3D'mso-element:frame;mso-element-wrap:around;mso-element-anchor-=
+vertical:
+paragraph;mso-element-anchor-horizontal:margin;mso-element-left:right;
+mso-element-top:.05pt;mso-height-rule:exactly'>
+
+<table cellspacing=3D0 cellpadding=3D0 hspace=3D0 vspace=3D0 align=3Dright>
+ <tr>
+  <td valign=3Dtop align=3Dleft style=3D'padding-top:0in;padding-right:0in;
+  padding-bottom:0in;padding-left:0in'>
+  <p class=3DMsoFooter style=3D'mso-element:frame;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margi=
+n;
+  mso-element-left:right;mso-element-top:.05pt;mso-height-rule:exactly'><!-=
+-[if supportFields]><span
+  class=3DMsoPageNumber><span style=3D'mso-element:field-begin'></span>PAGE=
+<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span><span style=3D'mso-element:field=
+-separator'></span></span><![endif]--><span
+  class=3DMsoPageNumber><span style=3D'mso-no-proof:yes'>2</span></span><!-=
+-[if supportFields]><span
+  class=3DMsoPageNumber><span style=3D'mso-element:field-end'></span></span=
+><![endif]--><span
+  class=3DMsoPageNumber><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoFooter style=3D'margin-right:.25in'>&copy; 2007 Microsoft
+Corporation.<span style=3D'mso-spacerun:yes'>&nbsp; </span>All rights reser=
+ved.<span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C6E2ED.9CB34A40
+Content-Location: file:///C:/2A821E05/VswriterReadme_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../VswriterReadme.htm"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01C6E2ED.9CB34A40--

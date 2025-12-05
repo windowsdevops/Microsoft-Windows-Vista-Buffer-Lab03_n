@@ -1,0 +1,9 @@
+DIRS= \
+     changers \
+     class \
+     filters \
+     miniide \
+     miniport \
+     sfloppy \
+     tape \
+     tools
