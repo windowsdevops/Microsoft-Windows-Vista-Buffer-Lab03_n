@@ -4,7 +4,7 @@ SET MSSdk=E:\WinDDK\6000\ or the Root Directory in SetEnv.bat
 
 Read the Useage and execute the batch file.
 
-:: --------------------------------------------------------------------------------------------
+<p>:: --------------------------------------------------------------------------------------------
 :: File    : SetEnv.cmd
 ::
 :: Abstract: This batch file sets the appropriate environment
@@ -22,6 +22,6 @@ Read the Useage and execute the batch file.
 ::                /xp      - Create Windows XP SP2 applications
 ::                /2003    - Create Windows Server 2003 applications
 ::
-:: --------------------------------------------------------------------------------------------
+:: --------------------------------------------------------------------------------------------</p>
 
 To Build the Buffer Lab or Samples use NMAKE from Microsoft or AT&T.
