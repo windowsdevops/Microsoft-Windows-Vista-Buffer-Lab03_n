@@ -23,7 +23,7 @@
 :: -------------------------------------------------------------------
 :: Establish default values
 :: -------------------------------------------------------------------
-SET MSSdk=C:\Program Files\Microsoft SDKs\Windows\v6.0
+SET MSSdk=E:\WinDDK\6000\
 Set SdkTools=%MSSdk%\Bin
 Set OSLibraries=%MSSdk%\Lib
 Set OSIncludes=%MSSdk%\Include;%MSSdk%\Include\gl
